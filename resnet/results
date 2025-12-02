@@ -1,0 +1,2901 @@
+Using Python at: /share/pkg.7/python3/3.8.10/install/bin/python
+Torch version: 1.13.1+cu116
+CUDA available: True
+Setting Datasets..
+Training with width 0.5:
+
+Starting Training..
+
+Loss of Epoch 1: 1649.1350946426392, Average: 2.20 
+
+New best model saved at epoch 1 with accuracy 42.41%
+
+Accuracy of Epoch 1: 42.40924092409241
+Loss of Epoch 2: 1252.4966827630997, Average: 1.67 
+
+New best model saved at epoch 2 with accuracy 55.21%
+
+Accuracy of Epoch 2: 55.21452145214521
+Loss of Epoch 3: 1057.0085609555244, Average: 1.41 
+
+New best model saved at epoch 3 with accuracy 62.24%
+
+Accuracy of Epoch 3: 62.244224422442244
+Loss of Epoch 4: 905.5575680732727, Average: 1.21 
+
+New best model saved at epoch 4 with accuracy 67.92%
+
+Accuracy of Epoch 4: 67.92079207920793
+Loss of Epoch 5: 783.8157632648945, Average: 1.05 
+
+New best model saved at epoch 5 with accuracy 70.69%
+
+Accuracy of Epoch 5: 70.6930693069307
+Loss of Epoch 6: 663.0749266147614, Average: 0.88 
+
+New best model saved at epoch 6 with accuracy 74.16%
+
+Accuracy of Epoch 6: 74.15841584158416
+Loss of Epoch 7: 571.2655468285084, Average: 0.76 
+
+New best model saved at epoch 7 with accuracy 77.72%
+
+Accuracy of Epoch 7: 77.72277227722772
+Loss of Epoch 8: 487.03539741039276, Average: 0.65 
+
+New best model saved at epoch 8 with accuracy 80.10%
+
+Accuracy of Epoch 8: 80.0990099009901
+Loss of Epoch 9: 409.80077132582664, Average: 0.55 
+
+New best model saved at epoch 9 with accuracy 82.57%
+
+Accuracy of Epoch 9: 82.57425742574257
+Loss of Epoch 10: 349.60088891536, Average: 0.47 
+
+New best model saved at epoch 10 with accuracy 83.63%
+
+Accuracy of Epoch 10: 83.63036303630363
+Loss of Epoch 11: 311.7745339497924, Average: 0.42 
+
+New best model saved at epoch 11 with accuracy 87.19%
+
+Accuracy of Epoch 11: 87.1947194719472
+Loss of Epoch 12: 253.651936724782, Average: 0.34 
+
+Accuracy of Epoch 12: 86.83168316831683
+Loss of Epoch 13: 225.45489783585072, Average: 0.30 
+
+Accuracy of Epoch 13: 85.47854785478548
+Loss of Epoch 14: 201.0064541399479, Average: 0.27 
+
+Accuracy of Epoch 14: 85.14851485148515
+Loss of Epoch 15: 178.6231675427407, Average: 0.24 
+
+New best model saved at epoch 15 with accuracy 88.88%
+
+Accuracy of Epoch 15: 88.87788778877888
+Loss of Epoch 16: 136.55597216263413, Average: 0.18 
+
+Accuracy of Epoch 16: 81.78217821782178
+Loss of Epoch 17: 156.52117820084095, Average: 0.21 
+
+Accuracy of Epoch 17: 86.66666666666667
+Loss of Epoch 18: 125.80224671773612, Average: 0.17 
+
+New best model saved at epoch 18 with accuracy 89.08%
+
+Accuracy of Epoch 18: 89.07590759075907
+Loss of Epoch 19: 131.40317806601524, Average: 0.18 
+
+New best model saved at epoch 19 with accuracy 91.06%
+
+Accuracy of Epoch 19: 91.05610561056106
+Loss of Epoch 20: 109.35300984419882, Average: 0.15 
+
+Accuracy of Epoch 20: 90.92409240924093
+Loss of Epoch 21: 107.70183480810374, Average: 0.14 
+
+Accuracy of Epoch 21: 88.41584158415841
+Loss of Epoch 22: 95.55440559517592, Average: 0.13 
+
+New best model saved at epoch 22 with accuracy 93.43%
+
+Accuracy of Epoch 22: 93.43234323432343
+Loss of Epoch 23: 96.45935011655092, Average: 0.13 
+
+Accuracy of Epoch 23: 92.83828382838284
+Loss of Epoch 24: 100.51561986841261, Average: 0.13 
+
+Accuracy of Epoch 24: 90.39603960396039
+Loss of Epoch 25: 70.98148512234911, Average: 0.09 
+
+New best model saved at epoch 25 with accuracy 94.13%
+
+Accuracy of Epoch 25: 94.12541254125412
+Loss of Epoch 26: 66.51404673838988, Average: 0.09 
+
+Accuracy of Epoch 26: 88.21782178217822
+Loss of Epoch 27: 78.66312562022358, Average: 0.10 
+
+Accuracy of Epoch 27: 93.003300330033
+Loss of Epoch 28: 65.15420254901983, Average: 0.09 
+
+Accuracy of Epoch 28: 93.3003300330033
+Loss of Epoch 29: 70.66830429551192, Average: 0.09 
+
+Accuracy of Epoch 29: 87.52475247524752
+Loss of Epoch 30: 67.14234046894126, Average: 0.09 
+
+Accuracy of Epoch 30: 93.63036303630363
+Loss of Epoch 31: 64.9842476695776, Average: 0.09 
+
+Accuracy of Epoch 31: 92.83828382838284
+Loss of Epoch 32: 64.88995556393638, Average: 0.09 
+
+Accuracy of Epoch 32: 90.99009900990099
+Loss of Epoch 33: 55.71143846726045, Average: 0.07 
+
+Accuracy of Epoch 33: 90.16501650165017
+Loss of Epoch 34: 63.674830253468826, Average: 0.08 
+
+Accuracy of Epoch 34: 89.33993399339934
+Loss of Epoch 35: 56.6055801716866, Average: 0.08 
+
+Accuracy of Epoch 35: 92.8052805280528
+Loss of Epoch 36: 49.60585724178236, Average: 0.07 
+
+New best model saved at epoch 36 with accuracy 94.72%
+
+Accuracy of Epoch 36: 94.71947194719472
+Loss of Epoch 37: 44.19565683638211, Average: 0.06 
+
+Accuracy of Epoch 37: 92.57425742574257
+Loss of Epoch 38: 55.225278862635605, Average: 0.07 
+
+Accuracy of Epoch 38: 89.00990099009901
+Loss of Epoch 39: 51.69252583087655, Average: 0.07 
+
+Accuracy of Epoch 39: 93.16831683168317
+Loss of Epoch 40: 42.998041854356416, Average: 0.06 
+
+Accuracy of Epoch 40: 93.72937293729373
+Loss of Epoch 41: 44.64998681336874, Average: 0.06 
+
+Accuracy of Epoch 41: 90.4950495049505
+Loss of Epoch 42: 40.211709499766584, Average: 0.05 
+
+Accuracy of Epoch 42: 91.05610561056106
+Loss of Epoch 43: 38.41925721411826, Average: 0.05 
+
+Accuracy of Epoch 43: 91.91419141914191
+Loss of Epoch 44: 43.571476850192994, Average: 0.06 
+
+New best model saved at epoch 44 with accuracy 95.78%
+
+Accuracy of Epoch 44: 95.77557755775578
+Loss of Epoch 45: 43.5054282003548, Average: 0.06 
+
+Accuracy of Epoch 45: 80.82508250825083
+Loss of Epoch 46: 32.323930931743234, Average: 0.04 
+
+Accuracy of Epoch 46: 93.6963696369637
+Loss of Epoch 47: 36.214631051931065, Average: 0.05 
+
+Accuracy of Epoch 47: 94.2904290429043
+Loss of Epoch 48: 51.16721425711876, Average: 0.07 
+
+Accuracy of Epoch 48: 95.18151815181518
+Loss of Epoch 49: 29.851226302533178, Average: 0.04 
+
+Accuracy of Epoch 49: 93.66336633663366
+Loss of Epoch 50: 37.837017266021576, Average: 0.05 
+
+Accuracy of Epoch 50: 93.46534653465346
+Loss of Epoch 51: 29.379100765567273, Average: 0.04 
+
+Accuracy of Epoch 51: 94.55445544554455
+Loss of Epoch 52: 35.341569910466205, Average: 0.05 
+
+Accuracy of Epoch 52: 90.0
+Loss of Epoch 53: 35.668101385905175, Average: 0.05 
+
+Accuracy of Epoch 53: 94.45544554455445
+Loss of Epoch 54: 34.319043390394654, Average: 0.05 
+
+Accuracy of Epoch 54: 93.23432343234323
+Loss of Epoch 55: 30.107866536010988, Average: 0.04 
+
+Accuracy of Epoch 55: 94.62046204620462
+Loss of Epoch 56: 35.79607630518149, Average: 0.05 
+
+Accuracy of Epoch 56: 93.33333333333333
+Loss of Epoch 57: 23.515693503199145, Average: 0.03 
+
+Accuracy of Epoch 57: 89.33993399339934
+Loss of Epoch 58: 42.42873943148879, Average: 0.06 
+
+New best model saved at epoch 58 with accuracy 95.97%
+
+Accuracy of Epoch 58: 95.97359735973598
+Loss of Epoch 59: 26.019240536144935, Average: 0.03 
+
+Accuracy of Epoch 59: 92.24422442244224
+Loss of Epoch 60: 45.85228003334487, Average: 0.06 
+
+Accuracy of Epoch 60: 91.15511551155116
+Loss of Epoch 61: 33.57357233122457, Average: 0.04 
+
+Accuracy of Epoch 61: 95.84158415841584
+Loss of Epoch 62: 22.48078616335988, Average: 0.03 
+
+Accuracy of Epoch 62: 93.1023102310231
+Loss of Epoch 63: 29.65556415534229, Average: 0.04 
+
+Accuracy of Epoch 63: 94.78547854785478
+Loss of Epoch 64: 28.933991152473027, Average: 0.04 
+
+Accuracy of Epoch 64: 94.32343234323433
+Loss of Epoch 65: 25.645934071100783, Average: 0.03 
+
+Accuracy of Epoch 65: 92.54125412541254
+Loss of Epoch 66: 28.637318279070314, Average: 0.04 
+
+Accuracy of Epoch 66: 95.87458745874588
+Loss of Epoch 67: 25.23071572254412, Average: 0.03 
+
+Accuracy of Epoch 67: 94.75247524752476
+Loss of Epoch 68: 32.39647483965382, Average: 0.04 
+
+Accuracy of Epoch 68: 90.33003300330033
+Loss of Epoch 69: 29.742923616955522, Average: 0.04 
+
+Accuracy of Epoch 69: 94.71947194719472
+Loss of Epoch 70: 15.221635405425332, Average: 0.02 
+
+Accuracy of Epoch 70: 95.04950495049505
+Loss of Epoch 71: 33.254100911013666, Average: 0.04 
+
+Accuracy of Epoch 71: 92.83828382838284
+Loss of Epoch 72: 26.07906866655685, Average: 0.03 
+
+Accuracy of Epoch 72: 95.41254125412541
+Loss of Epoch 73: 11.150145084277028, Average: 0.01 
+
+Accuracy of Epoch 73: 95.64356435643565
+Loss of Epoch 74: 37.04618187484448, Average: 0.05 
+
+Accuracy of Epoch 74: 93.86138613861387
+Loss of Epoch 75: 30.170675140980165, Average: 0.04 
+
+Accuracy of Epoch 75: 95.41254125412541
+Loss of Epoch 76: 16.134600640216377, Average: 0.02 
+
+Accuracy of Epoch 76: 95.18151815181518
+Loss of Epoch 77: 26.407277739956044, Average: 0.04 
+
+Accuracy of Epoch 77: 93.06930693069307
+Loss of Epoch 78: 26.53533329581842, Average: 0.04 
+
+Accuracy of Epoch 78: 94.68646864686468
+Loss of Epoch 79: 22.538178927876288, Average: 0.03 
+
+Accuracy of Epoch 79: 94.32343234323433
+Loss of Epoch 80: 22.273109794710763, Average: 0.03 
+
+Accuracy of Epoch 80: 90.99009900990099
+Loss of Epoch 81: 23.61571075633401, Average: 0.03 
+
+Accuracy of Epoch 81: 93.86138613861387
+Loss of Epoch 82: 19.38056339227478, Average: 0.03 
+
+Accuracy of Epoch 82: 94.12541254125412
+Loss of Epoch 83: 12.16586031577026, Average: 0.02 
+
+Accuracy of Epoch 83: 92.64026402640265
+Loss of Epoch 84: 34.16213936524582, Average: 0.05 
+
+Accuracy of Epoch 84: 95.04950495049505
+Loss of Epoch 85: 17.052936516309273, Average: 0.02 
+
+Accuracy of Epoch 85: 94.88448844884489
+Loss of Epoch 86: 33.75507614554954, Average: 0.05 
+
+Accuracy of Epoch 86: 94.1914191419142
+Loss of Epoch 87: 11.28977689392923, Average: 0.02 
+
+Accuracy of Epoch 87: 95.51155115511551
+Loss of Epoch 88: 22.661013216384163, Average: 0.03 
+
+Accuracy of Epoch 88: 93.4983498349835
+Loss of Epoch 89: 20.93337221472757, Average: 0.03 
+
+Accuracy of Epoch 89: 92.27722772277228
+Loss of Epoch 90: 17.28545388297789, Average: 0.02 
+
+Accuracy of Epoch 90: 94.48844884488449
+Loss of Epoch 91: 29.546575684653362, Average: 0.04 
+
+Accuracy of Epoch 91: 93.53135313531354
+Loss of Epoch 92: 15.581786657647172, Average: 0.02 
+
+Accuracy of Epoch 92: 92.87128712871286
+Loss of Epoch 93: 21.569754201744217, Average: 0.03 
+
+Accuracy of Epoch 93: 94.45544554455445
+Loss of Epoch 94: 24.885300302208634, Average: 0.03 
+
+Accuracy of Epoch 94: 94.12541254125412
+Loss of Epoch 95: 22.98562351376313, Average: 0.03 
+
+Accuracy of Epoch 95: 95.57755775577557
+Loss of Epoch 96: 30.73636136885034, Average: 0.04 
+
+Accuracy of Epoch 96: 95.04950495049505
+Loss of Epoch 97: 27.443674107460538, Average: 0.04 
+
+Accuracy of Epoch 97: 93.46534653465346
+Loss of Epoch 98: 12.245321646347293, Average: 0.02 
+
+Accuracy of Epoch 98: 95.77557755775578
+Loss of Epoch 99: 19.636506764894875, Average: 0.03 
+
+Accuracy of Epoch 99: 93.46534653465346
+Loss of Epoch 100: 28.063012826431077, Average: 0.04 
+
+Accuracy of Epoch 100: 93.06930693069307
+Loss of Epoch 101: 11.76470352440083, Average: 0.02 
+
+Accuracy of Epoch 101: 95.37953795379538
+Loss of Epoch 102: 21.480028160047368, Average: 0.03 
+
+Accuracy of Epoch 102: 94.58745874587459
+Loss of Epoch 103: 21.7581484499824, Average: 0.03 
+
+Accuracy of Epoch 103: 94.42244224422443
+Loss of Epoch 104: 19.3926703929028, Average: 0.03 
+
+Accuracy of Epoch 104: 93.6963696369637
+Loss of Epoch 105: 13.963342720813671, Average: 0.02 
+
+Accuracy of Epoch 105: 93.26732673267327
+Loss of Epoch 106: 19.329687037869007, Average: 0.03 
+
+Accuracy of Epoch 106: 94.62046204620462
+Loss of Epoch 107: 17.959914292165195, Average: 0.02 
+
+Accuracy of Epoch 107: 92.67326732673267
+Loss of Epoch 108: 22.152563160052523, Average: 0.03 
+
+Accuracy of Epoch 108: 92.64026402640265
+Loss of Epoch 109: 17.077626828075154, Average: 0.02 
+
+Accuracy of Epoch 109: 93.99339933993399
+Loss of Epoch 110: 23.53801678036689, Average: 0.03 
+
+Accuracy of Epoch 110: 94.42244224422443
+Loss of Epoch 111: 21.866489550404367, Average: 0.03 
+
+Accuracy of Epoch 111: 94.0924092409241
+Loss of Epoch 112: 26.79449529912381, Average: 0.04 
+
+Accuracy of Epoch 112: 95.41254125412541
+Loss of Epoch 113: 14.626587844177266, Average: 0.02 
+
+Accuracy of Epoch 113: 93.26732673267327
+Loss of Epoch 114: 16.071694883241435, Average: 0.02 
+
+Accuracy of Epoch 114: 93.76237623762377
+Loss of Epoch 115: 23.281967760536645, Average: 0.03 
+
+Accuracy of Epoch 115: 92.17821782178218
+Loss of Epoch 116: 16.11435088327562, Average: 0.02 
+
+Accuracy of Epoch 116: 93.76237623762377
+Loss of Epoch 117: 18.897335572124575, Average: 0.03 
+
+Accuracy of Epoch 117: 94.45544554455445
+Loss of Epoch 118: 22.91706689329294, Average: 0.03 
+
+Accuracy of Epoch 118: 92.01320132013201
+Loss of Epoch 119: 19.573018594601308, Average: 0.03 
+
+Accuracy of Epoch 119: 94.48844884488449
+Loss of Epoch 120: 21.693960093791247, Average: 0.03 
+
+Accuracy of Epoch 120: 94.68646864686468
+Loss of Epoch 121: 14.001736846999847, Average: 0.02 
+
+Accuracy of Epoch 121: 95.28052805280528
+Loss of Epoch 122: 21.457716458535288, Average: 0.03 
+
+Accuracy of Epoch 122: 95.04950495049505
+Loss of Epoch 123: 15.525301814028353, Average: 0.02 
+
+Accuracy of Epoch 123: 92.17821782178218
+Loss of Epoch 124: 16.10735587857198, Average: 0.02 
+
+Accuracy of Epoch 124: 94.22442244224422
+Loss of Epoch 125: 13.37531422237953, Average: 0.02 
+
+Accuracy of Epoch 125: 93.66336633663366
+Loss of Epoch 126: 27.177895174005243, Average: 0.04 
+
+Accuracy of Epoch 126: 94.68646864686468
+Loss of Epoch 127: 20.943990160129033, Average: 0.03 
+
+Accuracy of Epoch 127: 95.54455445544555
+Loss of Epoch 128: 9.12420439278867, Average: 0.01 
+
+Accuracy of Epoch 128: 94.32343234323433
+Loss of Epoch 129: 24.80723761511763, Average: 0.03 
+
+Accuracy of Epoch 129: 94.05940594059406
+Loss of Epoch 130: 21.369897781696636, Average: 0.03 
+
+Accuracy of Epoch 130: 95.44554455445545
+Loss of Epoch 131: 9.647416155930841, Average: 0.01 
+
+Accuracy of Epoch 131: 95.11551155115511
+Loss of Epoch 132: 15.498749088896147, Average: 0.02 
+
+Accuracy of Epoch 132: 94.91749174917491
+Loss of Epoch 133: 16.56911873528952, Average: 0.02 
+
+Accuracy of Epoch 133: 92.50825082508251
+Loss of Epoch 134: 21.442890293830715, Average: 0.03 
+
+Accuracy of Epoch 134: 95.08250825082509
+Loss of Epoch 135: 16.004174705944024, Average: 0.02 
+
+Accuracy of Epoch 135: 94.78547854785478
+Loss of Epoch 136: 18.0213393674494, Average: 0.02 
+
+Accuracy of Epoch 136: 94.1914191419142
+Loss of Epoch 137: 18.394397825482883, Average: 0.02 
+
+Accuracy of Epoch 137: 94.95049504950495
+Loss of Epoch 138: 21.11008575602318, Average: 0.03 
+
+Accuracy of Epoch 138: 93.99339933993399
+Loss of Epoch 139: 17.0099717113917, Average: 0.02 
+
+Accuracy of Epoch 139: 95.31353135313532
+Loss of Epoch 140: 19.127531613041356, Average: 0.03 
+
+Accuracy of Epoch 140: 91.32013201320132
+Loss of Epoch 141: 22.25530403322773, Average: 0.03 
+
+Accuracy of Epoch 141: 95.04950495049505
+Loss of Epoch 142: 12.94410771180992, Average: 0.02 
+
+Accuracy of Epoch 142: 92.40924092409242
+Loss of Epoch 143: 19.002023280896537, Average: 0.03 
+
+Accuracy of Epoch 143: 94.15841584158416
+Loss of Epoch 144: 8.58093538256071, Average: 0.01 
+
+Accuracy of Epoch 144: 95.51155115511551
+Loss of Epoch 145: 19.848344212034135, Average: 0.03 
+
+Accuracy of Epoch 145: 94.85148514851485
+Loss of Epoch 146: 14.98004712722468, Average: 0.02 
+
+Accuracy of Epoch 146: 93.3003300330033
+Loss of Epoch 147: 24.0281488817418, Average: 0.03 
+
+Accuracy of Epoch 147: 93.99339933993399
+Loss of Epoch 148: 19.17941919381701, Average: 0.03 
+
+Accuracy of Epoch 148: 93.36633663366337
+Loss of Epoch 149: 11.7489039586726, Average: 0.02 
+
+Accuracy of Epoch 149: 95.67656765676567
+Loss of Epoch 150: 17.933590233820723, Average: 0.02 
+
+Accuracy of Epoch 150: 94.48844884488449
+Loss of Epoch 151: 13.57654317284323, Average: 0.02 
+
+Accuracy of Epoch 151: 91.55115511551155
+Loss of Epoch 152: 15.000418710915255, Average: 0.02 
+
+Accuracy of Epoch 152: 94.12541254125412
+Loss of Epoch 153: 14.333283751555427, Average: 0.02 
+
+Accuracy of Epoch 153: 93.23432343234323
+Loss of Epoch 154: 12.587897736870218, Average: 0.02 
+
+Accuracy of Epoch 154: 95.84158415841584
+Loss of Epoch 155: 20.14019070908398, Average: 0.03 
+
+Accuracy of Epoch 155: 91.74917491749174
+Loss of Epoch 156: 23.62344552813738, Average: 0.03 
+
+Accuracy of Epoch 156: 94.78547854785478
+Loss of Epoch 157: 9.811801946081687, Average: 0.01 
+
+Accuracy of Epoch 157: 95.08250825082509
+Loss of Epoch 158: 14.960681934797321, Average: 0.02 
+
+Accuracy of Epoch 158: 93.13531353135313
+Loss of Epoch 159: 17.30738241565996, Average: 0.02 
+
+Accuracy of Epoch 159: 95.54455445544555
+Loss of Epoch 160: 14.34048265585443, Average: 0.02 
+
+Accuracy of Epoch 160: 93.82838283828383
+Loss of Epoch 161: 11.922828925875365, Average: 0.02 
+
+Accuracy of Epoch 161: 94.2904290429043
+Loss of Epoch 162: 18.89957631284051, Average: 0.03 
+
+Accuracy of Epoch 162: 93.5973597359736
+Loss of Epoch 163: 22.87238388136757, Average: 0.03 
+
+Accuracy of Epoch 163: 93.82838283828383
+Loss of Epoch 164: 13.087797829262854, Average: 0.02 
+
+Accuracy of Epoch 164: 94.1914191419142
+Loss of Epoch 165: 15.458899560668215, Average: 0.02 
+
+Accuracy of Epoch 165: 93.72937293729373
+Loss of Epoch 166: 12.172074779426111, Average: 0.02 
+
+Accuracy of Epoch 166: 95.7095709570957
+Loss of Epoch 167: 20.426228085067123, Average: 0.03 
+
+Accuracy of Epoch 167: 92.27722772277228
+Loss of Epoch 168: 15.887822147167753, Average: 0.02 
+
+Accuracy of Epoch 168: 94.78547854785478
+Loss of Epoch 169: 15.591641762985091, Average: 0.02 
+
+Accuracy of Epoch 169: 93.96039603960396
+Loss of Epoch 170: 16.725188629628974, Average: 0.02 
+
+Accuracy of Epoch 170: 95.08250825082509
+Loss of Epoch 171: 4.785989420306578, Average: 0.01 
+
+Accuracy of Epoch 171: 93.63036303630363
+Loss of Epoch 172: 30.881801803931012, Average: 0.04 
+
+Accuracy of Epoch 172: 94.62046204620462
+Loss of Epoch 173: 9.999769501948322, Average: 0.01 
+
+Accuracy of Epoch 173: 93.86138613861387
+Loss of Epoch 174: 23.416782213676925, Average: 0.03 
+
+Accuracy of Epoch 174: 94.85148514851485
+Loss of Epoch 175: 18.83793627568957, Average: 0.03 
+
+Accuracy of Epoch 175: 94.65346534653466
+Loss of Epoch 176: 17.636048309017497, Average: 0.02 
+
+Accuracy of Epoch 176: 94.55445544554455
+Loss of Epoch 177: 14.949831257690676, Average: 0.02 
+
+Accuracy of Epoch 177: 94.35643564356435
+Loss of Epoch 178: 17.990849452959083, Average: 0.02 
+
+Accuracy of Epoch 178: 94.95049504950495
+Loss of Epoch 179: 15.877262643218273, Average: 0.02 
+
+Accuracy of Epoch 179: 92.24422442244224
+Loss of Epoch 180: 13.865488697036199, Average: 0.02 
+
+Accuracy of Epoch 180: 92.01320132013201
+Loss of Epoch 181: 18.398263928305823, Average: 0.02 
+
+Accuracy of Epoch 181: 93.46534653465346
+Loss of Epoch 182: 23.50065288820042, Average: 0.03 
+
+Accuracy of Epoch 182: 94.62046204620462
+Loss of Epoch 183: 9.5824058098151, Average: 0.01 
+
+Accuracy of Epoch 183: 95.74257425742574
+Loss of Epoch 184: 12.263241996586657, Average: 0.02 
+
+Accuracy of Epoch 184: 89.60396039603961
+Loss of Epoch 185: 21.209187263397325, Average: 0.03 
+
+Accuracy of Epoch 185: 92.97029702970298
+Loss of Epoch 186: 18.010011807284172, Average: 0.02 
+
+Accuracy of Epoch 186: 94.1914191419142
+Loss of Epoch 187: 10.496640560751985, Average: 0.01 
+
+Accuracy of Epoch 187: 95.31353135313532
+Loss of Epoch 188: 10.24682142509846, Average: 0.01 
+
+Accuracy of Epoch 188: 90.99009900990099
+Loss of Epoch 189: 22.360178539507615, Average: 0.03 
+
+Accuracy of Epoch 189: 93.92739273927393
+Loss of Epoch 190: 15.810807604342699, Average: 0.02 
+
+Accuracy of Epoch 190: 94.88448844884489
+Loss of Epoch 191: 18.04980696621351, Average: 0.02 
+
+Accuracy of Epoch 191: 92.47524752475248
+Loss of Epoch 192: 19.76162993447724, Average: 0.03 
+
+Accuracy of Epoch 192: 95.24752475247524
+Loss of Epoch 193: 5.962657149822917, Average: 0.01 
+
+Accuracy of Epoch 193: 94.58745874587459
+Loss of Epoch 194: 17.699945757176465, Average: 0.02 
+
+Accuracy of Epoch 194: 93.89438943894389
+Loss of Epoch 195: 24.63503569466411, Average: 0.03 
+
+Accuracy of Epoch 195: 95.08250825082509
+Loss of Epoch 196: 18.156720325278002, Average: 0.02 
+
+Accuracy of Epoch 196: 93.36633663366337
+Loss of Epoch 197: 11.42488884881459, Average: 0.02 
+
+Accuracy of Epoch 197: 95.34653465346534
+Loss of Epoch 198: 13.095256477274233, Average: 0.02 
+
+Accuracy of Epoch 198: 93.92739273927393
+Loss of Epoch 199: 13.495703496490023, Average: 0.02 
+
+Accuracy of Epoch 199: 93.33333333333333
+Loss of Epoch 200: 18.470725912542548, Average: 0.02 
+
+Accuracy of Epoch 200: 93.63036303630363
+Loss of Epoch 201: 10.29843989420624, Average: 0.01 
+
+Accuracy of Epoch 201: 95.08250825082509
+Loss of Epoch 202: 20.22634406182624, Average: 0.03 
+
+Accuracy of Epoch 202: 94.78547854785478
+Loss of Epoch 203: 8.667025752823974, Average: 0.01 
+
+Accuracy of Epoch 203: 94.98349834983499
+Loss of Epoch 204: 21.010274078027578, Average: 0.03 
+
+Accuracy of Epoch 204: 90.0
+Loss of Epoch 205: 13.402513832381374, Average: 0.02 
+
+Accuracy of Epoch 205: 94.2904290429043
+Loss of Epoch 206: 13.75675366080759, Average: 0.02 
+
+Accuracy of Epoch 206: 93.3993399339934
+Loss of Epoch 207: 10.93233364554726, Average: 0.01 
+
+Accuracy of Epoch 207: 94.2904290429043
+Loss of Epoch 208: 22.811461929159123, Average: 0.03 
+
+Accuracy of Epoch 208: 95.04950495049505
+Loss of Epoch 209: 6.6358488481273525, Average: 0.01 
+
+Accuracy of Epoch 209: 92.2112211221122
+Loss of Epoch 210: 22.881761138749425, Average: 0.03 
+
+Accuracy of Epoch 210: 95.51155115511551
+Loss of Epoch 211: 16.04697718913667, Average: 0.02 
+
+Accuracy of Epoch 211: 94.32343234323433
+Loss of Epoch 212: 14.948961501100712, Average: 0.02 
+
+Accuracy of Epoch 212: 94.58745874587459
+Loss of Epoch 213: 11.548567718353297, Average: 0.02 
+
+Accuracy of Epoch 213: 94.71947194719472
+Loss of Epoch 214: 23.027801957068732, Average: 0.03 
+
+Accuracy of Epoch 214: 95.7095709570957
+Loss of Epoch 215: 9.552810459914326, Average: 0.01 
+
+Accuracy of Epoch 215: 94.15841584158416
+Loss of Epoch 216: 19.29446721624845, Average: 0.03 
+
+Accuracy of Epoch 216: 95.57755775577557
+Loss of Epoch 217: 18.239332300530805, Average: 0.02 
+
+Accuracy of Epoch 217: 94.71947194719472
+Loss of Epoch 218: 16.615870970774267, Average: 0.02 
+
+Accuracy of Epoch 218: 95.08250825082509
+Loss of Epoch 219: 11.38927013186185, Average: 0.02 
+
+Accuracy of Epoch 219: 93.63036303630363
+Loss of Epoch 220: 17.857836424998823, Average: 0.02 
+
+Accuracy of Epoch 220: 92.17821782178218
+Loss of Epoch 221: 22.623317462494015, Average: 0.03 
+
+Accuracy of Epoch 221: 95.31353135313532
+Loss of Epoch 222: 11.463421180080331, Average: 0.02 
+
+Accuracy of Epoch 222: 94.58745874587459
+Loss of Epoch 223: 8.674485833311337, Average: 0.01 
+
+Accuracy of Epoch 223: 94.25742574257426
+Loss of Epoch 224: 22.85762867726953, Average: 0.03 
+
+Accuracy of Epoch 224: 95.87458745874588
+Loss of Epoch 225: 5.473029383298126, Average: 0.01 
+
+Accuracy of Epoch 225: 94.95049504950495
+Loss of Epoch 226: 26.047673629465862, Average: 0.03 
+
+Accuracy of Epoch 226: 92.87128712871286
+Loss of Epoch 227: 17.87688737881399, Average: 0.02 
+
+Accuracy of Epoch 227: 95.51155115511551
+Loss of Epoch 228: 13.126393822924001, Average: 0.02 
+
+Accuracy of Epoch 228: 95.31353135313532
+Loss of Epoch 229: 7.094677948751269, Average: 0.01 
+
+Accuracy of Epoch 229: 94.75247524752476
+Loss of Epoch 230: 18.735641910185223, Average: 0.02 
+
+Accuracy of Epoch 230: 93.66336633663366
+Loss of Epoch 231: 15.521453282854054, Average: 0.02 
+
+Accuracy of Epoch 231: 93.06930693069307
+Loss of Epoch 232: 14.741136731630831, Average: 0.02 
+
+Accuracy of Epoch 232: 94.42244224422443
+Loss of Epoch 233: 4.452331048420092, Average: 0.01 
+
+Accuracy of Epoch 233: 95.24752475247524
+Loss of Epoch 234: 19.61449265679039, Average: 0.03 
+
+Accuracy of Epoch 234: 93.6963696369637
+Loss of Epoch 235: 7.947833902020648, Average: 0.01 
+
+Accuracy of Epoch 235: 94.32343234323433
+Loss of Epoch 236: 28.947332070983975, Average: 0.04 
+
+Accuracy of Epoch 236: 94.58745874587459
+Loss of Epoch 237: 15.051119148891303, Average: 0.02 
+
+Accuracy of Epoch 237: 95.18151815181518
+Loss of Epoch 238: 8.511916003248189, Average: 0.01 
+
+Accuracy of Epoch 238: 93.96039603960396
+Loss of Epoch 239: 19.16238769167103, Average: 0.03 
+
+Accuracy of Epoch 239: 94.22442244224422
+Loss of Epoch 240: 10.524712556176382, Average: 0.01 
+
+Accuracy of Epoch 240: 94.81848184818482
+Loss of Epoch 241: 14.373113133362494, Average: 0.02 
+
+Accuracy of Epoch 241: 93.46534653465346
+Loss of Epoch 242: 18.272885902464623, Average: 0.02 
+
+Accuracy of Epoch 242: 95.57755775577557
+Loss of Epoch 243: 9.125394907726331, Average: 0.01 
+
+Accuracy of Epoch 243: 95.47854785478548
+Loss of Epoch 244: 29.65128474344965, Average: 0.04 
+
+Accuracy of Epoch 244: 95.47854785478548
+Loss of Epoch 245: 4.832295475334831, Average: 0.01 
+
+Accuracy of Epoch 245: 95.31353135313532
+Loss of Epoch 246: 21.10547420621515, Average: 0.03 
+
+Accuracy of Epoch 246: 93.4983498349835
+Loss of Epoch 247: 7.123516411429591, Average: 0.01 
+
+Accuracy of Epoch 247: 94.71947194719472
+Loss of Epoch 248: 17.34443874338831, Average: 0.02 
+
+Accuracy of Epoch 248: 90.62706270627062
+Loss of Epoch 249: 25.888100445328746, Average: 0.03 
+
+Accuracy of Epoch 249: 94.91749174917491
+Loss of Epoch 250: 8.43637671446777, Average: 0.01 
+
+Accuracy of Epoch 250: 95.57755775577557
+Loss of Epoch 251: 17.015843735047383, Average: 0.02 
+
+Accuracy of Epoch 251: 94.0924092409241
+Loss of Epoch 252: 16.632593864000228, Average: 0.02 
+
+Accuracy of Epoch 252: 93.89438943894389
+Loss of Epoch 253: 15.043745799375756, Average: 0.02 
+
+Accuracy of Epoch 253: 94.95049504950495
+Loss of Epoch 254: 8.091567957802908, Average: 0.01 
+
+Accuracy of Epoch 254: 93.03630363036304
+Loss of Epoch 255: 15.724302533868467, Average: 0.02 
+
+Accuracy of Epoch 255: 94.48844884488449
+Loss of Epoch 256: 20.384595510586223, Average: 0.03 
+
+Accuracy of Epoch 256: 94.22442244224422
+Loss of Epoch 257: 13.77360114172916, Average: 0.02 
+
+Accuracy of Epoch 257: 93.33333333333333
+Loss of Epoch 258: 16.283512630954647, Average: 0.02 
+
+Accuracy of Epoch 258: 94.58745874587459
+Loss of Epoch 259: 17.071289875697403, Average: 0.02 
+
+Accuracy of Epoch 259: 94.15841584158416
+Loss of Epoch 260: 12.978478939716297, Average: 0.02 
+
+Accuracy of Epoch 260: 95.24752475247524
+Loss of Epoch 261: 8.464227429893072, Average: 0.01 
+
+Accuracy of Epoch 261: 92.54125412541254
+Loss of Epoch 262: 26.714703184057726, Average: 0.04 
+
+Accuracy of Epoch 262: 93.72937293729373
+Loss of Epoch 263: 16.16448601202501, Average: 0.02 
+
+Accuracy of Epoch 263: 95.8085808580858
+Loss of Epoch 264: 9.24499712772922, Average: 0.01 
+
+Accuracy of Epoch 264: 95.24752475247524
+Loss of Epoch 265: 21.20316468297824, Average: 0.03 
+
+Accuracy of Epoch 265: 93.72937293729373
+Loss of Epoch 266: 7.392398390202288, Average: 0.01 
+
+Accuracy of Epoch 266: 94.58745874587459
+Loss of Epoch 267: 23.83549292717362, Average: 0.03 
+
+Accuracy of Epoch 267: 93.5973597359736
+Loss of Epoch 268: 13.772980164023465, Average: 0.02 
+
+Accuracy of Epoch 268: 95.37953795379538
+Loss of Epoch 269: 9.975719226607907, Average: 0.01 
+
+Accuracy of Epoch 269: 92.37623762376238
+Loss of Epoch 270: 19.80817919938272, Average: 0.03 
+
+Accuracy of Epoch 270: 93.79537953795379
+Loss of Epoch 271: 19.252778423411655, Average: 0.03 
+
+Accuracy of Epoch 271: 93.99339933993399
+Loss of Epoch 272: 3.7537089107063366, Average: 0.01 
+
+Accuracy of Epoch 272: 95.8085808580858
+Loss of Epoch 273: 21.47262463869265, Average: 0.03 
+
+Accuracy of Epoch 273: 94.58745874587459
+Loss of Epoch 274: 7.643939902838611, Average: 0.01 
+
+Accuracy of Epoch 274: 95.8085808580858
+Loss of Epoch 275: 20.206946560960205, Average: 0.03 
+
+Accuracy of Epoch 275: 94.65346534653466
+Loss of Epoch 276: 13.225731829988945, Average: 0.02 
+
+Accuracy of Epoch 276: 92.70627062706271
+Loss of Epoch 277: 20.28986239713413, Average: 0.03 
+
+Accuracy of Epoch 277: 94.71947194719472
+Loss of Epoch 278: 13.052055284453672, Average: 0.02 
+
+Accuracy of Epoch 278: 92.60726072607261
+Loss of Epoch 279: 24.80249541187368, Average: 0.03 
+
+Accuracy of Epoch 279: 93.99339933993399
+Loss of Epoch 280: 17.60674033844407, Average: 0.02 
+
+Accuracy of Epoch 280: 93.92739273927393
+Loss of Epoch 281: 14.922218097410223, Average: 0.02 
+
+Accuracy of Epoch 281: 94.05940594059406
+Loss of Epoch 282: 9.617619584802014, Average: 0.01 
+
+Accuracy of Epoch 282: 95.11551155115511
+Loss of Epoch 283: 14.336685222657252, Average: 0.02 
+
+Accuracy of Epoch 283: 91.84818481848185
+Loss of Epoch 284: 19.349776060254953, Average: 0.03 
+
+Accuracy of Epoch 284: 94.05940594059406
+Loss of Epoch 285: 14.67360978414581, Average: 0.02 
+
+Accuracy of Epoch 285: 94.52145214521452
+Loss of Epoch 286: 14.870335462932417, Average: 0.02 
+
+Accuracy of Epoch 286: 92.9042904290429
+Loss of Epoch 287: 15.495065509494452, Average: 0.02 
+
+Accuracy of Epoch 287: 94.12541254125412
+Loss of Epoch 288: 17.753153096622555, Average: 0.02 
+
+Accuracy of Epoch 288: 94.42244224422443
+Loss of Epoch 289: 4.63487509292645, Average: 0.01 
+
+Accuracy of Epoch 289: 91.61716171617162
+Loss of Epoch 290: 20.809642381929734, Average: 0.03 
+
+Accuracy of Epoch 290: 92.40924092409242
+Loss of Epoch 291: 14.756422871498216, Average: 0.02 
+
+Accuracy of Epoch 291: 94.95049504950495
+Loss of Epoch 292: 11.718553666956723, Average: 0.02 
+
+Accuracy of Epoch 292: 93.43234323432343
+Loss of Epoch 293: 11.785998376260977, Average: 0.02 
+
+Accuracy of Epoch 293: 94.22442244224422
+Loss of Epoch 294: 18.657116469432367, Average: 0.02 
+
+Accuracy of Epoch 294: 94.05940594059406
+Loss of Epoch 295: 16.050400686501234, Average: 0.02 
+
+Accuracy of Epoch 295: 95.51155115511551
+Loss of Epoch 296: 13.975661571806995, Average: 0.02 
+
+Accuracy of Epoch 296: 93.92739273927393
+Loss of Epoch 297: 16.11979942918697, Average: 0.02 
+
+Accuracy of Epoch 297: 94.58745874587459
+Loss of Epoch 298: 10.443640136112663, Average: 0.01 
+
+Accuracy of Epoch 298: 93.43234323432343
+Loss of Epoch 299: 20.522594867994485, Average: 0.03 
+
+Accuracy of Epoch 299: 94.62046204620462
+Loss of Epoch 300: 10.898229212565639, Average: 0.01 
+
+Accuracy of Epoch 300: 93.99339933993399
+Finished Training
+Best model with width 0.5 had accuracy 95.97359735973598 at epoch 57
+
+Testing last model:
+
+Accuracy: 94.06270847231488
+
+Testing best model:
+
+Accuracy: 95.263509006004
+
+Training with width 1:
+
+Starting Training..
+
+Loss of Epoch 1: 1706.9542962312698, Average: 2.28 
+
+New best model saved at epoch 1 with accuracy 45.87%
+
+Accuracy of Epoch 1: 45.87458745874587
+Loss of Epoch 2: 1319.8587754368782, Average: 1.76 
+
+New best model saved at epoch 2 with accuracy 49.37%
+
+Accuracy of Epoch 2: 49.37293729372937
+Loss of Epoch 3: 1140.6132715940475, Average: 1.52 
+
+New best model saved at epoch 3 with accuracy 54.85%
+
+Accuracy of Epoch 3: 54.851485148514854
+Loss of Epoch 4: 974.0576294064522, Average: 1.30 
+
+New best model saved at epoch 4 with accuracy 61.58%
+
+Accuracy of Epoch 4: 61.584158415841586
+Loss of Epoch 5: 864.0204535126686, Average: 1.15 
+
+New best model saved at epoch 5 with accuracy 63.33%
+
+Accuracy of Epoch 5: 63.333333333333336
+Loss of Epoch 6: 731.4957779049873, Average: 0.98 
+
+New best model saved at epoch 6 with accuracy 70.13%
+
+Accuracy of Epoch 6: 70.13201320132013
+Loss of Epoch 7: 619.0622328817844, Average: 0.83 
+
+New best model saved at epoch 7 with accuracy 72.90%
+
+Accuracy of Epoch 7: 72.9042904290429
+Loss of Epoch 8: 527.4121297001839, Average: 0.70 
+
+New best model saved at epoch 8 with accuracy 80.56%
+
+Accuracy of Epoch 8: 80.56105610561056
+Loss of Epoch 9: 434.12934233248234, Average: 0.58 
+
+New best model saved at epoch 9 with accuracy 83.56%
+
+Accuracy of Epoch 9: 83.56435643564356
+Loss of Epoch 10: 374.04901072382927, Average: 0.50 
+
+Accuracy of Epoch 10: 83.3003300330033
+Loss of Epoch 11: 303.2667988091707, Average: 0.40 
+
+New best model saved at epoch 11 with accuracy 85.31%
+
+Accuracy of Epoch 11: 85.31353135313532
+Loss of Epoch 12: 263.8722930327058, Average: 0.35 
+
+Accuracy of Epoch 12: 84.85148514851485
+Loss of Epoch 13: 230.11641532182693, Average: 0.31 
+
+New best model saved at epoch 13 with accuracy 87.56%
+
+Accuracy of Epoch 13: 87.55775577557756
+Loss of Epoch 14: 190.5180136449635, Average: 0.25 
+
+New best model saved at epoch 14 with accuracy 89.34%
+
+Accuracy of Epoch 14: 89.33993399339934
+Loss of Epoch 15: 179.56774131208658, Average: 0.24 
+
+New best model saved at epoch 15 with accuracy 90.76%
+
+Accuracy of Epoch 15: 90.75907590759076
+Loss of Epoch 16: 138.6711847614497, Average: 0.18 
+
+Accuracy of Epoch 16: 80.1980198019802
+Loss of Epoch 17: 133.3242537844926, Average: 0.18 
+
+New best model saved at epoch 17 with accuracy 91.32%
+
+Accuracy of Epoch 17: 91.32013201320132
+Loss of Epoch 18: 129.97372819576412, Average: 0.17 
+
+Accuracy of Epoch 18: 89.57095709570957
+Loss of Epoch 19: 107.98830879246816, Average: 0.14 
+
+New best model saved at epoch 19 with accuracy 91.35%
+
+Accuracy of Epoch 19: 91.35313531353135
+Loss of Epoch 20: 97.94622483756393, Average: 0.13 
+
+Accuracy of Epoch 20: 90.26402640264027
+Loss of Epoch 21: 91.00702320225537, Average: 0.12 
+
+New best model saved at epoch 21 with accuracy 93.66%
+
+Accuracy of Epoch 21: 93.66336633663366
+Loss of Epoch 22: 94.04771538823843, Average: 0.13 
+
+Accuracy of Epoch 22: 90.99009900990099
+Loss of Epoch 23: 73.57944605289958, Average: 0.10 
+
+Accuracy of Epoch 23: 93.56435643564356
+Loss of Epoch 24: 75.21918295696378, Average: 0.10 
+
+New best model saved at epoch 24 with accuracy 93.76%
+
+Accuracy of Epoch 24: 93.76237623762377
+Loss of Epoch 25: 73.54831554088742, Average: 0.10 
+
+New best model saved at epoch 25 with accuracy 95.45%
+
+Accuracy of Epoch 25: 95.44554455445545
+Loss of Epoch 26: 69.07196925091557, Average: 0.09 
+
+Accuracy of Epoch 26: 89.07590759075907
+Loss of Epoch 27: 65.76207390474156, Average: 0.09 
+
+Accuracy of Epoch 27: 93.5973597359736
+Loss of Epoch 28: 60.0943402023986, Average: 0.08 
+
+Accuracy of Epoch 28: 92.87128712871286
+Loss of Epoch 29: 64.01343627646565, Average: 0.09 
+
+Accuracy of Epoch 29: 92.44224422442244
+Loss of Epoch 30: 48.0833303690888, Average: 0.06 
+
+Accuracy of Epoch 30: 95.37953795379538
+Loss of Epoch 31: 57.63982082507573, Average: 0.08 
+
+Accuracy of Epoch 31: 89.37293729372938
+Loss of Epoch 32: 47.80137233471032, Average: 0.06 
+
+Accuracy of Epoch 32: 95.21452145214522
+Loss of Epoch 33: 48.51322662446182, Average: 0.06 
+
+Accuracy of Epoch 33: 95.41254125412541
+Loss of Epoch 34: 35.00469088443788, Average: 0.05 
+
+Accuracy of Epoch 34: 93.86138613861387
+Loss of Epoch 35: 59.85516228567576, Average: 0.08 
+
+Accuracy of Epoch 35: 93.96039603960396
+Loss of Epoch 36: 44.00480537151452, Average: 0.06 
+
+Accuracy of Epoch 36: 90.85808580858085
+Loss of Epoch 37: 49.98301706148777, Average: 0.07 
+
+Accuracy of Epoch 37: 94.25742574257426
+Loss of Epoch 38: 35.18912702932721, Average: 0.05 
+
+Accuracy of Epoch 38: 95.28052805280528
+Loss of Epoch 39: 36.23949430620996, Average: 0.05 
+
+Accuracy of Epoch 39: 90.6930693069307
+Loss of Epoch 40: 41.2257762895606, Average: 0.05 
+
+Accuracy of Epoch 40: 95.41254125412541
+Loss of Epoch 41: 39.74879167537438, Average: 0.05 
+
+New best model saved at epoch 41 with accuracy 95.54%
+
+Accuracy of Epoch 41: 95.54455445544555
+Loss of Epoch 42: 29.43888386245817, Average: 0.04 
+
+Accuracy of Epoch 42: 94.0924092409241
+Loss of Epoch 43: 43.97048320266185, Average: 0.06 
+
+Accuracy of Epoch 43: 92.17821782178218
+Loss of Epoch 44: 21.332025983312633, Average: 0.03 
+
+Accuracy of Epoch 44: 95.37953795379538
+Loss of Epoch 45: 41.13631113912561, Average: 0.05 
+
+Accuracy of Epoch 45: 92.44224422442244
+Loss of Epoch 46: 41.59969138487941, Average: 0.06 
+
+New best model saved at epoch 46 with accuracy 95.58%
+
+Accuracy of Epoch 46: 95.57755775577557
+Loss of Epoch 47: 16.69956761371577, Average: 0.02 
+
+Accuracy of Epoch 47: 91.58415841584159
+Loss of Epoch 48: 36.54450549252215, Average: 0.05 
+
+Accuracy of Epoch 48: 92.64026402640265
+Loss of Epoch 49: 25.23380974525935, Average: 0.03 
+
+Accuracy of Epoch 49: 94.0924092409241
+Loss of Epoch 50: 33.53071577643277, Average: 0.04 
+
+New best model saved at epoch 50 with accuracy 95.97%
+
+Accuracy of Epoch 50: 95.97359735973598
+Loss of Epoch 51: 28.14758964566863, Average: 0.04 
+
+Accuracy of Epoch 51: 95.8085808580858
+Loss of Epoch 52: 28.641059268964455, Average: 0.04 
+
+Accuracy of Epoch 52: 93.66336633663366
+Loss of Epoch 53: 31.93981831189012, Average: 0.04 
+
+Accuracy of Epoch 53: 95.54455445544555
+Loss of Epoch 54: 12.968847800337244, Average: 0.02 
+
+New best model saved at epoch 54 with accuracy 96.14%
+
+Accuracy of Epoch 54: 96.13861386138613
+Loss of Epoch 55: 35.295084469311405, Average: 0.05 
+
+Accuracy of Epoch 55: 93.79537953795379
+Loss of Epoch 56: 23.76782758628542, Average: 0.03 
+
+Accuracy of Epoch 56: 93.3003300330033
+Loss of Epoch 57: 28.85200364445336, Average: 0.04 
+
+Accuracy of Epoch 57: 94.81848184818482
+Loss of Epoch 58: 28.003265451843617, Average: 0.04 
+
+Accuracy of Epoch 58: 95.14851485148515
+Loss of Epoch 59: 22.32635548840335, Average: 0.03 
+
+Accuracy of Epoch 59: 95.41254125412541
+Loss of Epoch 60: 24.121719469490927, Average: 0.03 
+
+Accuracy of Epoch 60: 94.45544554455445
+Loss of Epoch 61: 32.09423061896814, Average: 0.04 
+
+Accuracy of Epoch 61: 95.64356435643565
+Loss of Epoch 62: 16.717306679405738, Average: 0.02 
+
+Accuracy of Epoch 62: 94.1914191419142
+Loss of Epoch 63: 20.206024595099734, Average: 0.03 
+
+Accuracy of Epoch 63: 92.2112211221122
+Loss of Epoch 64: 24.4562116425368, Average: 0.03 
+
+Accuracy of Epoch 64: 93.3993399339934
+Loss of Epoch 65: 28.407239654741716, Average: 0.04 
+
+New best model saved at epoch 65 with accuracy 96.40%
+
+Accuracy of Epoch 65: 96.4026402640264
+Loss of Epoch 66: 20.70812401267176, Average: 0.03 
+
+Accuracy of Epoch 66: 93.56435643564356
+Loss of Epoch 67: 20.3460888309055, Average: 0.03 
+
+Accuracy of Epoch 67: 94.75247524752476
+Loss of Epoch 68: 28.432932467054343, Average: 0.04 
+
+Accuracy of Epoch 68: 94.71947194719472
+Loss of Epoch 69: 25.99445938995632, Average: 0.03 
+
+Accuracy of Epoch 69: 96.10561056105611
+Loss of Epoch 70: 14.512832785694627, Average: 0.02 
+
+Accuracy of Epoch 70: 95.11551155115511
+Loss of Epoch 71: 26.304135957427206, Average: 0.04 
+
+Accuracy of Epoch 71: 96.13861386138613
+Loss of Epoch 72: 24.762234029796673, Average: 0.03 
+
+New best model saved at epoch 72 with accuracy 96.44%
+
+Accuracy of Epoch 72: 96.43564356435644
+Loss of Epoch 73: 17.644003947309102, Average: 0.02 
+
+Accuracy of Epoch 73: 95.7095709570957
+Loss of Epoch 74: 13.835043809718627, Average: 0.02 
+
+Accuracy of Epoch 74: 94.68646864686468
+Loss of Epoch 75: 28.48317820575903, Average: 0.04 
+
+Accuracy of Epoch 75: 95.67656765676567
+Loss of Epoch 76: 9.636437059583841, Average: 0.01 
+
+New best model saved at epoch 76 with accuracy 96.60%
+
+Accuracy of Epoch 76: 96.6006600660066
+Loss of Epoch 77: 26.56764065900643, Average: 0.04 
+
+Accuracy of Epoch 77: 95.94059405940594
+Loss of Epoch 78: 27.016165424283827, Average: 0.04 
+
+Accuracy of Epoch 78: 92.40924092409242
+Loss of Epoch 79: 20.75052361517737, Average: 0.03 
+
+Accuracy of Epoch 79: 95.28052805280528
+Loss of Epoch 80: 19.70206608949229, Average: 0.03 
+
+Accuracy of Epoch 80: 94.75247524752476
+Loss of Epoch 81: 24.11644293468271, Average: 0.03 
+
+Accuracy of Epoch 81: 94.62046204620462
+Loss of Epoch 82: 24.766043110270402, Average: 0.03 
+
+Accuracy of Epoch 82: 95.08250825082509
+Loss of Epoch 83: 20.246638119726413, Average: 0.03 
+
+Accuracy of Epoch 83: 96.20462046204621
+Loss of Epoch 84: 15.017655149538768, Average: 0.02 
+
+Accuracy of Epoch 84: 94.0924092409241
+Loss of Epoch 85: 17.256384582651663, Average: 0.02 
+
+New best model saved at epoch 85 with accuracy 96.83%
+
+Accuracy of Epoch 85: 96.83168316831683
+Loss of Epoch 86: 18.155993572181615, Average: 0.02 
+
+Accuracy of Epoch 86: 93.92739273927393
+Loss of Epoch 87: 19.437033776339376, Average: 0.03 
+
+Accuracy of Epoch 87: 93.82838283828383
+Loss of Epoch 88: 16.729779690176656, Average: 0.02 
+
+Accuracy of Epoch 88: 96.10561056105611
+Loss of Epoch 89: 20.44233652764524, Average: 0.03 
+
+Accuracy of Epoch 89: 95.51155115511551
+Loss of Epoch 90: 19.59064777749154, Average: 0.03 
+
+Accuracy of Epoch 90: 95.54455445544555
+Loss of Epoch 91: 13.647435276288888, Average: 0.02 
+
+Accuracy of Epoch 91: 95.04950495049505
+Loss of Epoch 92: 23.967471024850965, Average: 0.03 
+
+Accuracy of Epoch 92: 94.88448844884489
+Loss of Epoch 93: 15.475120683666319, Average: 0.02 
+
+Accuracy of Epoch 93: 96.53465346534654
+Loss of Epoch 94: 21.885847045254195, Average: 0.03 
+
+Accuracy of Epoch 94: 94.75247524752476
+Loss of Epoch 95: 11.850117259942635, Average: 0.02 
+
+New best model saved at epoch 95 with accuracy 96.90%
+
+Accuracy of Epoch 95: 96.8976897689769
+Loss of Epoch 96: 14.57013363140868, Average: 0.02 
+
+Accuracy of Epoch 96: 95.44554455445545
+Loss of Epoch 97: 16.324175734021992, Average: 0.02 
+
+Accuracy of Epoch 97: 95.21452145214522
+Loss of Epoch 98: 19.335866490975604, Average: 0.03 
+
+Accuracy of Epoch 98: 96.17161716171617
+Loss of Epoch 99: 12.838020308590785, Average: 0.02 
+
+Accuracy of Epoch 99: 95.18151815181518
+Loss of Epoch 100: 20.697748476362904, Average: 0.03 
+
+Accuracy of Epoch 100: 93.89438943894389
+Loss of Epoch 101: 19.20504348366012, Average: 0.03 
+
+Accuracy of Epoch 101: 96.17161716171617
+Loss of Epoch 102: 13.501627351164643, Average: 0.02 
+
+Accuracy of Epoch 102: 95.18151815181518
+Loss of Epoch 103: 17.933968403711333, Average: 0.02 
+
+Accuracy of Epoch 103: 94.62046204620462
+Loss of Epoch 104: 19.604591971248738, Average: 0.03 
+
+Accuracy of Epoch 104: 95.87458745874588
+Loss of Epoch 105: 10.804725289381167, Average: 0.01 
+
+Accuracy of Epoch 105: 94.75247524752476
+Loss of Epoch 106: 19.77071896052803, Average: 0.03 
+
+Accuracy of Epoch 106: 95.57755775577557
+Loss of Epoch 107: 14.59492719364789, Average: 0.02 
+
+Accuracy of Epoch 107: 93.99339933993399
+Loss of Epoch 108: 8.327570374334755, Average: 0.01 
+
+Accuracy of Epoch 108: 95.9075907590759
+Loss of Epoch 109: 23.910978918160254, Average: 0.03 
+
+Accuracy of Epoch 109: 89.93399339933994
+Loss of Epoch 110: 21.366135057040083, Average: 0.03 
+
+Accuracy of Epoch 110: 95.84158415841584
+Loss of Epoch 111: 10.211783371894853, Average: 0.01 
+
+Accuracy of Epoch 111: 95.77557755775578
+Loss of Epoch 112: 15.134821630141232, Average: 0.02 
+
+Accuracy of Epoch 112: 95.51155115511551
+Loss of Epoch 113: 21.66788532690407, Average: 0.03 
+
+Accuracy of Epoch 113: 95.94059405940594
+Loss of Epoch 114: 10.816523255794891, Average: 0.01 
+
+Accuracy of Epoch 114: 96.13861386138613
+Loss of Epoch 115: 14.00331997048852, Average: 0.02 
+
+Accuracy of Epoch 115: 88.44884488448845
+Loss of Epoch 116: 24.043428609475086, Average: 0.03 
+
+Accuracy of Epoch 116: 95.77557755775578
+Loss of Epoch 117: 5.842810694601212, Average: 0.01 
+
+Accuracy of Epoch 117: 96.17161716171617
+Loss of Epoch 118: 21.14342793061587, Average: 0.03 
+
+Accuracy of Epoch 118: 94.25742574257426
+Loss of Epoch 119: 14.67292843186442, Average: 0.02 
+
+Accuracy of Epoch 119: 94.88448844884489
+Loss of Epoch 120: 21.430711797671393, Average: 0.03 
+
+Accuracy of Epoch 120: 95.94059405940594
+Loss of Epoch 121: 5.249817695264937, Average: 0.01 
+
+Accuracy of Epoch 121: 95.7095709570957
+Loss of Epoch 122: 16.319627387194487, Average: 0.02 
+
+Accuracy of Epoch 122: 93.76237623762377
+Loss of Epoch 123: 16.054581945827522, Average: 0.02 
+
+Accuracy of Epoch 123: 94.98349834983499
+Loss of Epoch 124: 22.161400804208824, Average: 0.03 
+
+Accuracy of Epoch 124: 96.20462046204621
+Loss of Epoch 125: 6.994541074218432, Average: 0.01 
+
+Accuracy of Epoch 125: 96.27062706270627
+Loss of Epoch 126: 17.6070558473657, Average: 0.02 
+
+Accuracy of Epoch 126: 96.03960396039604
+Loss of Epoch 127: 19.630135462939506, Average: 0.03 
+
+Accuracy of Epoch 127: 95.14851485148515
+Loss of Epoch 128: 11.466479535542021, Average: 0.02 
+
+Accuracy of Epoch 128: 95.74257425742574
+Loss of Epoch 129: 4.033633472006841, Average: 0.01 
+
+Accuracy of Epoch 129: 95.18151815181518
+Loss of Epoch 130: 21.007155346775107, Average: 0.03 
+
+Accuracy of Epoch 130: 95.57755775577557
+Loss of Epoch 131: 11.971646242651332, Average: 0.02 
+
+Accuracy of Epoch 131: 95.41254125412541
+Loss of Epoch 132: 16.621887779147073, Average: 0.02 
+
+Accuracy of Epoch 132: 96.27062706270627
+Loss of Epoch 133: 15.784116019771318, Average: 0.02 
+
+Accuracy of Epoch 133: 95.04950495049505
+Loss of Epoch 134: 14.92055740458818, Average: 0.02 
+
+Accuracy of Epoch 134: 95.51155115511551
+Loss of Epoch 135: 10.448488270532835, Average: 0.01 
+
+Accuracy of Epoch 135: 95.41254125412541
+Loss of Epoch 136: 22.335144547614618, Average: 0.03 
+
+Accuracy of Epoch 136: 95.84158415841584
+Loss of Epoch 137: 7.850254743745609, Average: 0.01 
+
+Accuracy of Epoch 137: 95.61056105610561
+Loss of Epoch 138: 19.734532576181664, Average: 0.03 
+
+Accuracy of Epoch 138: 96.3036303630363
+Loss of Epoch 139: 12.8101900483598, Average: 0.02 
+
+Accuracy of Epoch 139: 95.01650165016501
+Loss of Epoch 140: 18.473917448143766, Average: 0.02 
+
+Accuracy of Epoch 140: 94.22442244224422
+Loss of Epoch 141: 19.714119258569553, Average: 0.03 
+
+Accuracy of Epoch 141: 93.1023102310231
+Loss of Epoch 142: 17.25884095174115, Average: 0.02 
+
+Accuracy of Epoch 142: 96.10561056105611
+Loss of Epoch 143: 11.656169921458059, Average: 0.02 
+
+Accuracy of Epoch 143: 94.55445544554455
+Loss of Epoch 144: 18.882075701818394, Average: 0.03 
+
+Accuracy of Epoch 144: 95.8085808580858
+Loss of Epoch 145: 13.448238694825704, Average: 0.02 
+
+Accuracy of Epoch 145: 96.27062706270627
+Loss of Epoch 146: 5.960649175805884, Average: 0.01 
+
+Accuracy of Epoch 146: 94.48844884488449
+Loss of Epoch 147: 16.68085738251466, Average: 0.02 
+
+Accuracy of Epoch 147: 95.61056105610561
+Loss of Epoch 148: 17.605159517628636, Average: 0.02 
+
+Accuracy of Epoch 148: 95.04950495049505
+Loss of Epoch 149: 16.85676495642838, Average: 0.02 
+
+Accuracy of Epoch 149: 96.20462046204621
+Loss of Epoch 150: 4.276286223472198, Average: 0.01 
+
+Accuracy of Epoch 150: 94.2904290429043
+Loss of Epoch 151: 21.300823433339247, Average: 0.03 
+
+Accuracy of Epoch 151: 94.85148514851485
+Loss of Epoch 152: 10.072232511251059, Average: 0.01 
+
+Accuracy of Epoch 152: 96.46864686468646
+Loss of Epoch 153: 9.853100710719445, Average: 0.01 
+
+Accuracy of Epoch 153: 92.83828382838284
+Loss of Epoch 154: 21.562744840914092, Average: 0.03 
+
+Accuracy of Epoch 154: 95.08250825082509
+Loss of Epoch 155: 7.8827067893344065, Average: 0.01 
+
+Accuracy of Epoch 155: 94.95049504950495
+Loss of Epoch 156: 15.969499000995711, Average: 0.02 
+
+Accuracy of Epoch 156: 94.15841584158416
+Loss of Epoch 157: 17.08404729182803, Average: 0.02 
+
+Accuracy of Epoch 157: 96.10561056105611
+Loss of Epoch 158: 18.402652715536533, Average: 0.02 
+
+Accuracy of Epoch 158: 94.25742574257426
+Loss of Epoch 159: 19.741407514025923, Average: 0.03 
+
+Accuracy of Epoch 159: 95.84158415841584
+Loss of Epoch 160: 4.202427800626538, Average: 0.01 
+
+Accuracy of Epoch 160: 95.41254125412541
+Loss of Epoch 161: 24.69887578055568, Average: 0.03 
+
+Accuracy of Epoch 161: 96.03960396039604
+Loss of Epoch 162: 5.165947765721285, Average: 0.01 
+
+Accuracy of Epoch 162: 96.27062706270627
+Loss of Epoch 163: 22.630760310858022, Average: 0.03 
+
+Accuracy of Epoch 163: 94.2904290429043
+Loss of Epoch 164: 5.129154466027103, Average: 0.01 
+
+Accuracy of Epoch 164: 96.13861386138613
+Loss of Epoch 165: 16.433627224279917, Average: 0.02 
+
+Accuracy of Epoch 165: 93.03630363036304
+Loss of Epoch 166: 19.65682487821323, Average: 0.03 
+
+Accuracy of Epoch 166: 95.97359735973598
+Loss of Epoch 167: 8.464191677096096, Average: 0.01 
+
+Accuracy of Epoch 167: 93.3993399339934
+Loss of Epoch 168: 15.66416245491564, Average: 0.02 
+
+Accuracy of Epoch 168: 94.75247524752476
+Loss of Epoch 169: 16.477737056764454, Average: 0.02 
+
+Accuracy of Epoch 169: 91.65016501650165
+Loss of Epoch 170: 18.384241086503607, Average: 0.02 
+
+Accuracy of Epoch 170: 94.88448844884489
+Loss of Epoch 171: 11.935928099956072, Average: 0.02 
+
+Accuracy of Epoch 171: 95.87458745874588
+Loss of Epoch 172: 6.50313353263482, Average: 0.01 
+
+Accuracy of Epoch 172: 95.9075907590759
+Loss of Epoch 173: 19.296065574824752, Average: 0.03 
+
+Accuracy of Epoch 173: 95.57755775577557
+Loss of Epoch 174: 18.02702219277853, Average: 0.02 
+
+Accuracy of Epoch 174: 95.97359735973598
+Loss of Epoch 175: 2.6513907035377997, Average: 0.00 
+
+Accuracy of Epoch 175: 96.4026402640264
+Loss of Epoch 176: 22.1533996395101, Average: 0.03 
+
+Accuracy of Epoch 176: 93.5973597359736
+Loss of Epoch 177: 12.496043504052068, Average: 0.02 
+
+Accuracy of Epoch 177: 95.64356435643565
+Loss of Epoch 178: 13.758728137225262, Average: 0.02 
+
+Accuracy of Epoch 178: 94.71947194719472
+Loss of Epoch 179: 24.521793774532853, Average: 0.03 
+
+Accuracy of Epoch 179: 93.89438943894389
+Loss of Epoch 180: 15.626846518731327, Average: 0.02 
+
+Accuracy of Epoch 180: 96.27062706270627
+Loss of Epoch 181: 3.5493434347699804, Average: 0.00 
+
+Accuracy of Epoch 181: 96.46864686468646
+Loss of Epoch 182: 9.129159981861449, Average: 0.01 
+
+Accuracy of Epoch 182: 90.29702970297029
+Loss of Epoch 183: 18.53947384928324, Average: 0.02 
+
+Accuracy of Epoch 183: 96.03960396039604
+Loss of Epoch 184: 14.88640348194167, Average: 0.02 
+
+Accuracy of Epoch 184: 94.78547854785478
+Loss of Epoch 185: 14.478831529260788, Average: 0.02 
+
+Accuracy of Epoch 185: 95.94059405940594
+Loss of Epoch 186: 5.718032264190697, Average: 0.01 
+
+Accuracy of Epoch 186: 94.65346534653466
+Loss of Epoch 187: 18.881890585989822, Average: 0.03 
+
+Accuracy of Epoch 187: 93.66336633663366
+Loss of Epoch 188: 9.6086968139698, Average: 0.01 
+
+Accuracy of Epoch 188: 95.84158415841584
+Loss of Epoch 189: 12.446213342693227, Average: 0.02 
+
+Accuracy of Epoch 189: 95.04950495049505
+Loss of Epoch 190: 10.928505157948166, Average: 0.01 
+
+Accuracy of Epoch 190: 95.18151815181518
+Loss of Epoch 191: 17.804072984770755, Average: 0.02 
+
+Accuracy of Epoch 191: 95.18151815181518
+Loss of Epoch 192: 12.475911217052271, Average: 0.02 
+
+Accuracy of Epoch 192: 89.5049504950495
+Loss of Epoch 193: 14.366952179170767, Average: 0.02 
+
+Accuracy of Epoch 193: 95.97359735973598
+Loss of Epoch 194: 9.858489341328095, Average: 0.01 
+
+Accuracy of Epoch 194: 96.13861386138613
+Loss of Epoch 195: 10.915029113944911, Average: 0.01 
+
+Accuracy of Epoch 195: 92.47524752475248
+Loss of Epoch 196: 26.294756186114682, Average: 0.04 
+
+Accuracy of Epoch 196: 94.91749174917491
+Loss of Epoch 197: 18.93140101377503, Average: 0.03 
+
+Accuracy of Epoch 197: 96.10561056105611
+Loss of Epoch 198: 13.95870657749765, Average: 0.02 
+
+Accuracy of Epoch 198: 95.9075907590759
+Loss of Epoch 199: 9.619385552810854, Average: 0.01 
+
+Accuracy of Epoch 199: 94.65346534653466
+Loss of Epoch 200: 14.320602611758659, Average: 0.02 
+
+Accuracy of Epoch 200: 95.8085808580858
+Loss of Epoch 201: 15.920296530963242, Average: 0.02 
+
+Accuracy of Epoch 201: 95.87458745874588
+Loss of Epoch 202: 8.928352044802523, Average: 0.01 
+
+Accuracy of Epoch 202: 94.62046204620462
+Loss of Epoch 203: 19.292956542976754, Average: 0.03 
+
+Accuracy of Epoch 203: 94.75247524752476
+Loss of Epoch 204: 11.295162723989051, Average: 0.02 
+
+Accuracy of Epoch 204: 95.37953795379538
+Loss of Epoch 205: 10.912790209791638, Average: 0.01 
+
+Accuracy of Epoch 205: 95.44554455445545
+Loss of Epoch 206: 16.875906318597117, Average: 0.02 
+
+Accuracy of Epoch 206: 95.87458745874588
+Loss of Epoch 207: 13.863907817802101, Average: 0.02 
+
+Accuracy of Epoch 207: 95.7095709570957
+Loss of Epoch 208: 9.991834652684702, Average: 0.01 
+
+Accuracy of Epoch 208: 94.32343234323433
+Loss of Epoch 209: 9.405565671168006, Average: 0.01 
+
+Accuracy of Epoch 209: 95.51155115511551
+Loss of Epoch 210: 16.099060899736287, Average: 0.02 
+
+Accuracy of Epoch 210: 90.4950495049505
+Loss of Epoch 211: 13.83449170860331, Average: 0.02 
+
+Accuracy of Epoch 211: 95.84158415841584
+Loss of Epoch 212: 6.156572011150274, Average: 0.01 
+
+Accuracy of Epoch 212: 95.94059405940594
+Loss of Epoch 213: 16.835799637803575, Average: 0.02 
+
+Accuracy of Epoch 213: 95.31353135313532
+Loss of Epoch 214: 15.206245108412986, Average: 0.02 
+
+Accuracy of Epoch 214: 95.7095709570957
+Loss of Epoch 215: 11.433096961707633, Average: 0.02 
+
+Accuracy of Epoch 215: 95.94059405940594
+Loss of Epoch 216: 10.887834229299187, Average: 0.01 
+
+Accuracy of Epoch 216: 94.68646864686468
+Loss of Epoch 217: 10.91723522882603, Average: 0.01 
+
+Accuracy of Epoch 217: 92.73927392739274
+Loss of Epoch 218: 15.985720646232949, Average: 0.02 
+
+Accuracy of Epoch 218: 95.11551155115511
+Loss of Epoch 219: 11.10699929781913, Average: 0.01 
+
+Accuracy of Epoch 219: 95.14851485148515
+Loss of Epoch 220: 13.645155320900813, Average: 0.02 
+
+Accuracy of Epoch 220: 95.47854785478548
+Loss of Epoch 221: 10.191010755952448, Average: 0.01 
+
+Accuracy of Epoch 221: 95.57755775577557
+Loss of Epoch 222: 17.709531367992895, Average: 0.02 
+
+Accuracy of Epoch 222: 95.14851485148515
+Loss of Epoch 223: 4.304208312725677, Average: 0.01 
+
+Accuracy of Epoch 223: 96.17161716171617
+Loss of Epoch 224: 22.59054776531775, Average: 0.03 
+
+Accuracy of Epoch 224: 93.3993399339934
+Loss of Epoch 225: 13.13390273733421, Average: 0.02 
+
+Accuracy of Epoch 225: 96.07260726072607
+Loss of Epoch 226: 5.81724134030992, Average: 0.01 
+
+Accuracy of Epoch 226: 92.77227722772277
+Loss of Epoch 227: 18.04471917441333, Average: 0.02 
+
+Accuracy of Epoch 227: 94.15841584158416
+Loss of Epoch 228: 6.987083170686674, Average: 0.01 
+
+Accuracy of Epoch 228: 96.13861386138613
+Loss of Epoch 229: 15.378816071679466, Average: 0.02 
+
+Accuracy of Epoch 229: 95.08250825082509
+Loss of Epoch 230: 13.521026656159847, Average: 0.02 
+
+Accuracy of Epoch 230: 95.34653465346534
+Loss of Epoch 231: 22.103083932543086, Average: 0.03 
+
+Accuracy of Epoch 231: 95.87458745874588
+Loss of Epoch 232: 9.745383174358722, Average: 0.01 
+
+Accuracy of Epoch 232: 95.97359735973598
+Loss of Epoch 233: 2.786858330406176, Average: 0.00 
+
+Accuracy of Epoch 233: 95.61056105610561
+Loss of Epoch 234: 19.562191730490667, Average: 0.03 
+
+Accuracy of Epoch 234: 94.91749174917491
+Loss of Epoch 235: 7.048970655348967, Average: 0.01 
+
+Accuracy of Epoch 235: 96.00660066006601
+Loss of Epoch 236: 11.084117045313178, Average: 0.01 
+
+Accuracy of Epoch 236: 95.11551155115511
+Loss of Epoch 237: 14.33118210147768, Average: 0.02 
+
+Accuracy of Epoch 237: 95.9075907590759
+Loss of Epoch 238: 5.166937858606616, Average: 0.01 
+
+Accuracy of Epoch 238: 93.20132013201321
+Loss of Epoch 239: 17.624696410441175, Average: 0.02 
+
+Accuracy of Epoch 239: 91.98019801980197
+Loss of Epoch 240: 10.802157751515551, Average: 0.01 
+
+Accuracy of Epoch 240: 94.58745874587459
+Loss of Epoch 241: 19.471908398092637, Average: 0.03 
+
+Accuracy of Epoch 241: 94.42244224422443
+Loss of Epoch 242: 10.098449840628746, Average: 0.01 
+
+Accuracy of Epoch 242: 96.07260726072607
+Loss of Epoch 243: 11.24544295652413, Average: 0.01 
+
+Accuracy of Epoch 243: 93.3993399339934
+Loss of Epoch 244: 17.817412060645438, Average: 0.02 
+
+Accuracy of Epoch 244: 95.84158415841584
+Loss of Epoch 245: 6.914804878681025, Average: 0.01 
+
+Accuracy of Epoch 245: 94.95049504950495
+Loss of Epoch 246: 12.375931575013965, Average: 0.02 
+
+Accuracy of Epoch 246: 94.38943894389439
+Loss of Epoch 247: 12.289231226497577, Average: 0.02 
+
+Accuracy of Epoch 247: 95.7095709570957
+Loss of Epoch 248: 16.854515623272164, Average: 0.02 
+
+Accuracy of Epoch 248: 95.57755775577557
+Loss of Epoch 249: 14.006676761880954, Average: 0.02 
+
+Accuracy of Epoch 249: 96.03960396039604
+Loss of Epoch 250: 10.294847498400486, Average: 0.01 
+
+Accuracy of Epoch 250: 94.05940594059406
+Loss of Epoch 251: 14.741939523908513, Average: 0.02 
+
+Accuracy of Epoch 251: 95.67656765676567
+Loss of Epoch 252: 7.221695839712993, Average: 0.01 
+
+Accuracy of Epoch 252: 93.20132013201321
+Loss of Epoch 253: 18.449127634718025, Average: 0.02 
+
+Accuracy of Epoch 253: 95.74257425742574
+Loss of Epoch 254: 6.690803689161839, Average: 0.01 
+
+Accuracy of Epoch 254: 95.61056105610561
+Loss of Epoch 255: 8.78640901892868, Average: 0.01 
+
+Accuracy of Epoch 255: 89.00990099009901
+Loss of Epoch 256: 19.10942036061533, Average: 0.03 
+
+Accuracy of Epoch 256: 95.74257425742574
+Loss of Epoch 257: 2.458137348850869, Average: 0.00 
+
+Accuracy of Epoch 257: 96.3036303630363
+Loss of Epoch 258: 18.519150147267283, Average: 0.02 
+
+Accuracy of Epoch 258: 95.47854785478548
+Loss of Epoch 259: 13.332682600364933, Average: 0.02 
+
+Accuracy of Epoch 259: 93.3003300330033
+Loss of Epoch 260: 8.214645002601173, Average: 0.01 
+
+Accuracy of Epoch 260: 95.74257425742574
+Loss of Epoch 261: 11.272454400839706, Average: 0.02 
+
+Accuracy of Epoch 261: 92.01320132013201
+Loss of Epoch 262: 16.9187145460819, Average: 0.02 
+
+Accuracy of Epoch 262: 95.94059405940594
+Loss of Epoch 263: 3.3205487571849517, Average: 0.00 
+
+Accuracy of Epoch 263: 95.54455445544555
+Loss of Epoch 264: 12.987076662568143, Average: 0.02 
+
+Accuracy of Epoch 264: 94.42244224422443
+Loss of Epoch 265: 16.509787791743292, Average: 0.02 
+
+Accuracy of Epoch 265: 92.83828382838284
+Loss of Epoch 266: 12.580578786175465, Average: 0.02 
+
+Accuracy of Epoch 266: 95.74257425742574
+Loss of Epoch 267: 14.777062016353739, Average: 0.02 
+
+Accuracy of Epoch 267: 94.98349834983499
+Loss of Epoch 268: 12.615380242663377, Average: 0.02 
+
+Accuracy of Epoch 268: 96.4026402640264
+Loss of Epoch 269: 8.45621490162739, Average: 0.01 
+
+Accuracy of Epoch 269: 94.58745874587459
+Loss of Epoch 270: 16.50316942192876, Average: 0.02 
+
+Accuracy of Epoch 270: 96.3036303630363
+Loss of Epoch 271: 17.44092701716727, Average: 0.02 
+
+Accuracy of Epoch 271: 96.07260726072607
+Loss of Epoch 272: 3.9181341321564105, Average: 0.01 
+
+Accuracy of Epoch 272: 96.43564356435644
+Loss of Epoch 273: 15.804364844552765, Average: 0.02 
+
+Accuracy of Epoch 273: 95.01650165016501
+Loss of Epoch 274: 6.662682761989345, Average: 0.01 
+
+Accuracy of Epoch 274: 96.10561056105611
+Loss of Epoch 275: 21.16773913801444, Average: 0.03 
+
+Accuracy of Epoch 275: 94.81848184818482
+Loss of Epoch 276: 12.495305019958323, Average: 0.02 
+
+Accuracy of Epoch 276: 96.33663366336634
+Loss of Epoch 277: 4.335690377552055, Average: 0.01 
+
+Accuracy of Epoch 277: 96.10561056105611
+Loss of Epoch 278: 20.982625881610147, Average: 0.03 
+
+Accuracy of Epoch 278: 95.34653465346534
+Loss of Epoch 279: 15.64767474949258, Average: 0.02 
+
+Accuracy of Epoch 279: 95.54455445544555
+Loss of Epoch 280: 12.034224365583214, Average: 0.02 
+
+Accuracy of Epoch 280: 94.95049504950495
+Loss of Epoch 281: 16.47313205079263, Average: 0.02 
+
+Accuracy of Epoch 281: 94.0924092409241
+Loss of Epoch 282: 18.426428967970423, Average: 0.02 
+
+Accuracy of Epoch 282: 95.54455445544555
+Loss of Epoch 283: 6.117644916235804, Average: 0.01 
+
+Accuracy of Epoch 283: 96.07260726072607
+Loss of Epoch 284: 10.81330243352022, Average: 0.01 
+
+Accuracy of Epoch 284: 93.1023102310231
+Loss of Epoch 285: 16.017083229158743, Average: 0.02 
+
+Accuracy of Epoch 285: 95.64356435643565
+Loss of Epoch 286: 16.686385764316583, Average: 0.02 
+
+Accuracy of Epoch 286: 96.86468646864687
+Loss of Epoch 287: 7.546767530586294, Average: 0.01 
+
+Accuracy of Epoch 287: 95.61056105610561
+Loss of Epoch 288: 17.512297765359108, Average: 0.02 
+
+Accuracy of Epoch 288: 95.28052805280528
+Loss of Epoch 289: 15.309420858600788, Average: 0.02 
+
+Accuracy of Epoch 289: 95.04950495049505
+Loss of Epoch 290: 13.010473791637196, Average: 0.02 
+
+Accuracy of Epoch 290: 95.64356435643565
+Loss of Epoch 291: 7.096293516534388, Average: 0.01 
+
+Accuracy of Epoch 291: 94.12541254125412
+Loss of Epoch 292: 17.77185302885482, Average: 0.02 
+
+Accuracy of Epoch 292: 96.03960396039604
+Loss of Epoch 293: 3.8027959732235104, Average: 0.01 
+
+Accuracy of Epoch 293: 95.84158415841584
+Loss of Epoch 294: 20.985857766721892, Average: 0.03 
+
+Accuracy of Epoch 294: 95.84158415841584
+Loss of Epoch 295: 10.96482330804065, Average: 0.01 
+
+Accuracy of Epoch 295: 95.94059405940594
+Loss of Epoch 296: 6.592666471013217, Average: 0.01 
+
+Accuracy of Epoch 296: 95.8085808580858
+Loss of Epoch 297: 20.02188503382058, Average: 0.03 
+
+Accuracy of Epoch 297: 93.003300330033
+Loss of Epoch 298: 13.942557762962679, Average: 0.02 
+
+Accuracy of Epoch 298: 94.81848184818482
+Loss of Epoch 299: 8.04804138493273, Average: 0.01 
+
+Accuracy of Epoch 299: 94.68646864686468
+Loss of Epoch 300: 6.18356221537033, Average: 0.01 
+
+Accuracy of Epoch 300: 95.18151815181518
+Finished Training
+Best model with width 1 had accuracy 96.8976897689769 at epoch 94
+
+Testing last model:
+
+Accuracy: 94.86324216144097
+
+Testing best model:
+
+Accuracy: 97.46497665110073
+
+Training with width 2:
+
+Starting Training..
+
+Loss of Epoch 1: 1757.8389279842377, Average: 2.34 
+
+New best model saved at epoch 1 with accuracy 38.18%
+
+Accuracy of Epoch 1: 38.18481848184818
+Loss of Epoch 2: 1331.0414507389069, Average: 1.77 
+
+New best model saved at epoch 2 with accuracy 51.32%
+
+Accuracy of Epoch 2: 51.320132013201324
+Loss of Epoch 3: 1120.5464334487915, Average: 1.49 
+
+New best model saved at epoch 3 with accuracy 57.39%
+
+Accuracy of Epoch 3: 57.39273927392739
+Loss of Epoch 4: 950.8686850667, Average: 1.27 
+
+New best model saved at epoch 4 with accuracy 64.46%
+
+Accuracy of Epoch 4: 64.45544554455445
+Loss of Epoch 5: 796.2077379524708, Average: 1.06 
+
+New best model saved at epoch 5 with accuracy 67.26%
+
+Accuracy of Epoch 5: 67.26072607260726
+Loss of Epoch 6: 668.4466059207916, Average: 0.89 
+
+New best model saved at epoch 6 with accuracy 71.19%
+
+Accuracy of Epoch 6: 71.18811881188118
+Loss of Epoch 7: 541.3288314789534, Average: 0.72 
+
+New best model saved at epoch 7 with accuracy 75.97%
+
+Accuracy of Epoch 7: 75.97359735973598
+Loss of Epoch 8: 439.5929507613182, Average: 0.59 
+
+New best model saved at epoch 8 with accuracy 79.97%
+
+Accuracy of Epoch 8: 79.96699669966996
+Loss of Epoch 9: 362.62183284014463, Average: 0.48 
+
+New best model saved at epoch 9 with accuracy 81.91%
+
+Accuracy of Epoch 9: 81.91419141914191
+Loss of Epoch 10: 275.85670271515846, Average: 0.37 
+
+New best model saved at epoch 10 with accuracy 88.05%
+
+Accuracy of Epoch 10: 88.05280528052805
+Loss of Epoch 11: 232.49112111330032, Average: 0.31 
+
+Accuracy of Epoch 11: 85.57755775577557
+Loss of Epoch 12: 190.07228757813573, Average: 0.25 
+
+Accuracy of Epoch 12: 81.58415841584159
+Loss of Epoch 13: 160.80430615879595, Average: 0.21 
+
+Accuracy of Epoch 13: 87.75577557755776
+Loss of Epoch 14: 136.9403942367062, Average: 0.18 
+
+New best model saved at epoch 14 with accuracy 89.87%
+
+Accuracy of Epoch 14: 89.86798679867987
+Loss of Epoch 15: 112.83141965698451, Average: 0.15 
+
+Accuracy of Epoch 15: 88.44884488448845
+Loss of Epoch 16: 105.60421224683523, Average: 0.14 
+
+Accuracy of Epoch 16: 85.64356435643565
+Loss of Epoch 17: 91.24837757973, Average: 0.12 
+
+New best model saved at epoch 17 with accuracy 91.85%
+
+Accuracy of Epoch 17: 91.84818481848185
+Loss of Epoch 18: 97.37316602328792, Average: 0.13 
+
+Accuracy of Epoch 18: 91.48514851485149
+Loss of Epoch 19: 72.63704709010199, Average: 0.10 
+
+Accuracy of Epoch 19: 89.96699669966996
+Loss of Epoch 20: 67.56078860699199, Average: 0.09 
+
+New best model saved at epoch 20 with accuracy 91.88%
+
+Accuracy of Epoch 20: 91.88118811881188
+Loss of Epoch 21: 68.63563989591785, Average: 0.09 
+
+Accuracy of Epoch 21: 90.66006600660066
+Loss of Epoch 22: 70.10323965095449, Average: 0.09 
+
+New best model saved at epoch 22 with accuracy 93.83%
+
+Accuracy of Epoch 22: 93.82838283828383
+Loss of Epoch 23: 57.987493879627436, Average: 0.08 
+
+Accuracy of Epoch 23: 91.98019801980197
+Loss of Epoch 24: 61.19060210575117, Average: 0.08 
+
+New best model saved at epoch 24 with accuracy 94.69%
+
+Accuracy of Epoch 24: 94.68646864686468
+Loss of Epoch 25: 46.46406885050237, Average: 0.06 
+
+Accuracy of Epoch 25: 90.92409240924093
+Loss of Epoch 26: 62.75989199755713, Average: 0.08 
+
+New best model saved at epoch 26 with accuracy 95.02%
+
+Accuracy of Epoch 26: 95.01650165016501
+Loss of Epoch 27: 37.109874482033774, Average: 0.05 
+
+Accuracy of Epoch 27: 92.9042904290429
+Loss of Epoch 28: 47.523525851836894, Average: 0.06 
+
+Accuracy of Epoch 28: 93.79537953795379
+Loss of Epoch 29: 41.13961859891424, Average: 0.05 
+
+Accuracy of Epoch 29: 93.96039603960396
+Loss of Epoch 30: 48.53983852919191, Average: 0.06 
+
+Accuracy of Epoch 30: 94.58745874587459
+Loss of Epoch 31: 35.478219363081735, Average: 0.05 
+
+Accuracy of Epoch 31: 92.11221122112211
+Loss of Epoch 32: 34.15614443202503, Average: 0.05 
+
+Accuracy of Epoch 32: 94.45544554455445
+Loss of Epoch 33: 38.1060144410003, Average: 0.05 
+
+Accuracy of Epoch 33: 93.66336633663366
+Loss of Epoch 34: 32.007866256608395, Average: 0.04 
+
+Accuracy of Epoch 34: 94.05940594059406
+Loss of Epoch 35: 35.44428767860518, Average: 0.05 
+
+Accuracy of Epoch 35: 92.3102310231023
+Loss of Epoch 36: 29.029083477449603, Average: 0.04 
+
+Accuracy of Epoch 36: 93.23432343234323
+Loss of Epoch 37: 36.842061169532826, Average: 0.05 
+
+Accuracy of Epoch 37: 94.65346534653466
+Loss of Epoch 38: 35.09273456191295, Average: 0.05 
+
+Accuracy of Epoch 38: 92.83828382838284
+Loss of Epoch 39: 28.756602273555472, Average: 0.04 
+
+Accuracy of Epoch 39: 93.96039603960396
+Loss of Epoch 40: 27.30618990509538, Average: 0.04 
+
+New best model saved at epoch 40 with accuracy 96.37%
+
+Accuracy of Epoch 40: 96.36963696369637
+Loss of Epoch 41: 31.991830245387973, Average: 0.04 
+
+Accuracy of Epoch 41: 94.68646864686468
+Loss of Epoch 42: 30.29350292374147, Average: 0.04 
+
+Accuracy of Epoch 42: 94.95049504950495
+Loss of Epoch 43: 27.419368509203196, Average: 0.04 
+
+Accuracy of Epoch 43: 95.31353135313532
+Loss of Epoch 44: 18.8413449122163, Average: 0.03 
+
+Accuracy of Epoch 44: 95.47854785478548
+Loss of Epoch 45: 31.951322503446136, Average: 0.04 
+
+Accuracy of Epoch 45: 92.50825082508251
+Loss of Epoch 46: 20.35822273461963, Average: 0.03 
+
+Accuracy of Epoch 46: 96.10561056105611
+Loss of Epoch 47: 32.508238341557444, Average: 0.04 
+
+Accuracy of Epoch 47: 95.04950495049505
+Loss of Epoch 48: 22.66871313707088, Average: 0.03 
+
+Accuracy of Epoch 48: 94.1914191419142
+Loss of Epoch 49: 13.384652442342485, Average: 0.02 
+
+Accuracy of Epoch 49: 94.85148514851485
+Loss of Epoch 50: 33.81302156606398, Average: 0.05 
+
+Accuracy of Epoch 50: 92.73927392739274
+Loss of Epoch 51: 25.437536398225348, Average: 0.03 
+
+Accuracy of Epoch 51: 95.54455445544555
+Loss of Epoch 52: 11.919037609375664, Average: 0.02 
+
+Accuracy of Epoch 52: 95.04950495049505
+Loss of Epoch 53: 25.282553685916355, Average: 0.03 
+
+Accuracy of Epoch 53: 93.89438943894389
+Loss of Epoch 54: 20.844246671753353, Average: 0.03 
+
+Accuracy of Epoch 54: 94.58745874587459
+Loss of Epoch 55: 21.218982783640968, Average: 0.03 
+
+Accuracy of Epoch 55: 94.81848184818482
+Loss of Epoch 56: 23.117917941592168, Average: 0.03 
+
+Accuracy of Epoch 56: 92.77227722772277
+Loss of Epoch 57: 18.44730145106587, Average: 0.02 
+
+Accuracy of Epoch 57: 96.33663366336634
+Loss of Epoch 58: 24.489090165538073, Average: 0.03 
+
+Accuracy of Epoch 58: 94.2904290429043
+Loss of Epoch 59: 18.598972222578595, Average: 0.02 
+
+Accuracy of Epoch 59: 95.14851485148515
+Loss of Epoch 60: 16.582822960350313, Average: 0.02 
+
+Accuracy of Epoch 60: 93.33333333333333
+Loss of Epoch 61: 18.437796881898976, Average: 0.02 
+
+Accuracy of Epoch 61: 93.03630363036304
+Loss of Epoch 62: 28.090353732259246, Average: 0.04 
+
+Accuracy of Epoch 62: 95.97359735973598
+Loss of Epoch 63: 14.062250242219307, Average: 0.02 
+
+Accuracy of Epoch 63: 94.48844884488449
+Loss of Epoch 64: 24.062842262370395, Average: 0.03 
+
+Accuracy of Epoch 64: 93.79537953795379
+Loss of Epoch 65: 20.177677086365293, Average: 0.03 
+
+Accuracy of Epoch 65: 95.28052805280528
+Loss of Epoch 66: 11.941197827072756, Average: 0.02 
+
+Accuracy of Epoch 66: 95.77557755775578
+Loss of Epoch 67: 14.032449873411679, Average: 0.02 
+
+Accuracy of Epoch 67: 92.24422442244224
+Loss of Epoch 68: 26.55294590696576, Average: 0.04 
+
+Accuracy of Epoch 68: 95.84158415841584
+Loss of Epoch 69: 18.955672299387516, Average: 0.03 
+
+Accuracy of Epoch 69: 94.98349834983499
+Loss of Epoch 70: 12.973328179956297, Average: 0.02 
+
+Accuracy of Epoch 70: 95.57755775577557
+Loss of Epoch 71: 13.967710035522032, Average: 0.02 
+
+Accuracy of Epoch 71: 96.07260726072607
+Loss of Epoch 72: 27.58431549503075, Average: 0.04 
+
+Accuracy of Epoch 72: 95.14851485148515
+Loss of Epoch 73: 9.411674835992017, Average: 0.01 
+
+Accuracy of Epoch 73: 95.11551155115511
+Loss of Epoch 74: 17.190818712355394, Average: 0.02 
+
+Accuracy of Epoch 74: 94.15841584158416
+Loss of Epoch 75: 10.664038757979142, Average: 0.01 
+
+Accuracy of Epoch 75: 94.68646864686468
+Loss of Epoch 76: 19.143495856496884, Average: 0.03 
+
+Accuracy of Epoch 76: 93.03630363036304
+Loss of Epoch 77: 23.463496383090387, Average: 0.03 
+
+Accuracy of Epoch 77: 93.53135313531354
+Loss of Epoch 78: 17.549095352784207, Average: 0.02 
+
+Accuracy of Epoch 78: 94.12541254125412
+Loss of Epoch 79: 9.428669325690862, Average: 0.01 
+
+Accuracy of Epoch 79: 93.33333333333333
+Loss of Epoch 80: 17.416034799724002, Average: 0.02 
+
+Accuracy of Epoch 80: 95.31353135313532
+Loss of Epoch 81: 11.898223101186886, Average: 0.02 
+
+Accuracy of Epoch 81: 96.07260726072607
+Loss of Epoch 82: 14.826136418301758, Average: 0.02 
+
+Accuracy of Epoch 82: 95.77557755775578
+Loss of Epoch 83: 19.135506600108783, Average: 0.03 
+
+Accuracy of Epoch 83: 92.40924092409242
+Loss of Epoch 84: 23.482602168358426, Average: 0.03 
+
+Accuracy of Epoch 84: 96.10561056105611
+Loss of Epoch 85: 10.08530788164353, Average: 0.01 
+
+Accuracy of Epoch 85: 95.7095709570957
+Loss of Epoch 86: 12.439441236150742, Average: 0.02 
+
+Accuracy of Epoch 86: 93.3003300330033
+Loss of Epoch 87: 15.185384846565285, Average: 0.02 
+
+Accuracy of Epoch 87: 93.76237623762377
+Loss of Epoch 88: 19.26976526814542, Average: 0.03 
+
+Accuracy of Epoch 88: 95.9075907590759
+Loss of Epoch 89: 18.063441692775086, Average: 0.02 
+
+Accuracy of Epoch 89: 95.11551155115511
+Loss of Epoch 90: 13.849280665453989, Average: 0.02 
+
+Accuracy of Epoch 90: 95.18151815181518
+Loss of Epoch 91: 14.671481654560921, Average: 0.02 
+
+Accuracy of Epoch 91: 96.17161716171617
+Loss of Epoch 92: 15.682764698551182, Average: 0.02 
+
+Accuracy of Epoch 92: 93.99339933993399
+Loss of Epoch 93: 12.456825970046339, Average: 0.02 
+
+Accuracy of Epoch 93: 95.9075907590759
+Loss of Epoch 94: 11.356596669767896, Average: 0.02 
+
+Accuracy of Epoch 94: 92.87128712871286
+Loss of Epoch 95: 17.699235905485693, Average: 0.02 
+
+Accuracy of Epoch 95: 93.72937293729373
+Loss of Epoch 96: 15.202421507477993, Average: 0.02 
+
+Accuracy of Epoch 96: 94.1914191419142
+Loss of Epoch 97: 16.461019131362264, Average: 0.02 
+
+Accuracy of Epoch 97: 95.87458745874588
+Loss of Epoch 98: 10.772032000444597, Average: 0.01 
+
+Accuracy of Epoch 98: 94.12541254125412
+Loss of Epoch 99: 13.475749268811342, Average: 0.02 
+
+Accuracy of Epoch 99: 93.89438943894389
+Loss of Epoch 100: 16.11842200488354, Average: 0.02 
+
+New best model saved at epoch 100 with accuracy 96.50%
+
+Accuracy of Epoch 100: 96.5016501650165
+Loss of Epoch 101: 9.42087802907372, Average: 0.01 
+
+Accuracy of Epoch 101: 95.84158415841584
+Loss of Epoch 102: 14.898764422920067, Average: 0.02 
+
+Accuracy of Epoch 102: 93.33333333333333
+Loss of Epoch 103: 10.774130287940352, Average: 0.01 
+
+Accuracy of Epoch 103: 96.03960396039604
+Loss of Epoch 104: 16.223895618953975, Average: 0.02 
+
+Accuracy of Epoch 104: 93.89438943894389
+Loss of Epoch 105: 17.32032164084376, Average: 0.02 
+
+Accuracy of Epoch 105: 95.31353135313532
+Loss of Epoch 106: 2.6982858169594692, Average: 0.00 
+
+New best model saved at epoch 106 with accuracy 96.83%
+
+Accuracy of Epoch 106: 96.83168316831683
+Loss of Epoch 107: 22.377109124634444, Average: 0.03 
+
+Accuracy of Epoch 107: 94.62046204620462
+Loss of Epoch 108: 5.108279748365021, Average: 0.01 
+
+Accuracy of Epoch 108: 96.66666666666667
+Loss of Epoch 109: 17.601722706904184, Average: 0.02 
+
+Accuracy of Epoch 109: 95.11551155115511
+Loss of Epoch 110: 8.53375961434358, Average: 0.01 
+
+Accuracy of Epoch 110: 93.3003300330033
+Loss of Epoch 111: 21.516344974686945, Average: 0.03 
+
+Accuracy of Epoch 111: 95.44554455445545
+Loss of Epoch 112: 12.485620866125828, Average: 0.02 
+
+Accuracy of Epoch 112: 94.98349834983499
+Loss of Epoch 113: 13.017317969361102, Average: 0.02 
+
+Accuracy of Epoch 113: 94.1914191419142
+Loss of Epoch 114: 17.66522343597171, Average: 0.02 
+
+Accuracy of Epoch 114: 95.18151815181518
+Loss of Epoch 115: 9.63708130845771, Average: 0.01 
+
+Accuracy of Epoch 115: 96.17161716171617
+Loss of Epoch 116: 12.112720705321408, Average: 0.02 
+
+Accuracy of Epoch 116: 94.91749174917491
+Loss of Epoch 117: 7.963030876228004, Average: 0.01 
+
+Accuracy of Epoch 117: 95.41254125412541
+Loss of Epoch 118: 18.9770747963521, Average: 0.03 
+
+Accuracy of Epoch 118: 93.86138613861387
+Loss of Epoch 119: 11.080051879773237, Average: 0.01 
+
+Accuracy of Epoch 119: 96.23762376237623
+Loss of Epoch 120: 7.951928813374252, Average: 0.01 
+
+Accuracy of Epoch 120: 92.54125412541254
+Loss of Epoch 121: 21.310680062779284, Average: 0.03 
+
+Accuracy of Epoch 121: 95.61056105610561
+Loss of Epoch 122: 9.921350586093467, Average: 0.01 
+
+Accuracy of Epoch 122: 93.96039603960396
+Loss of Epoch 123: 16.749872082311413, Average: 0.02 
+
+Accuracy of Epoch 123: 95.9075907590759
+Loss of Epoch 124: 8.533304299498923, Average: 0.01 
+
+Accuracy of Epoch 124: 94.48844884488449
+Loss of Epoch 125: 14.267137147147878, Average: 0.02 
+
+Accuracy of Epoch 125: 95.31353135313532
+Loss of Epoch 126: 9.579243038158893, Average: 0.01 
+
+Accuracy of Epoch 126: 95.84158415841584
+Loss of Epoch 127: 15.853986535359581, Average: 0.02 
+
+Accuracy of Epoch 127: 96.00660066006601
+Loss of Epoch 128: 5.580332678367995, Average: 0.01 
+
+Accuracy of Epoch 128: 96.13861386138613
+Loss of Epoch 129: 14.27414039894029, Average: 0.02 
+
+Accuracy of Epoch 129: 93.72937293729373
+Loss of Epoch 130: 14.984895271705682, Average: 0.02 
+
+Accuracy of Epoch 130: 95.41254125412541
+Loss of Epoch 131: 6.313469046404862, Average: 0.01 
+
+Accuracy of Epoch 131: 93.1023102310231
+Loss of Epoch 132: 21.056079614412738, Average: 0.03 
+
+Accuracy of Epoch 132: 94.81848184818482
+Loss of Epoch 133: 5.309534186812016, Average: 0.01 
+
+Accuracy of Epoch 133: 96.43564356435644
+Loss of Epoch 134: 13.825280684066456, Average: 0.02 
+
+Accuracy of Epoch 134: 89.5049504950495
+Loss of Epoch 135: 10.952406469848938, Average: 0.01 
+
+Accuracy of Epoch 135: 94.52145214521452
+Loss of Epoch 136: 22.028523177061288, Average: 0.03 
+
+Accuracy of Epoch 136: 95.41254125412541
+Loss of Epoch 137: 14.697251367542776, Average: 0.02 
+
+Accuracy of Epoch 137: 95.74257425742574
+Loss of Epoch 138: 4.085639973962316, Average: 0.01 
+
+Accuracy of Epoch 138: 96.00660066006601
+Loss of Epoch 139: 24.56190408585462, Average: 0.03 
+
+Accuracy of Epoch 139: 95.64356435643565
+Loss of Epoch 140: 8.073260687117, Average: 0.01 
+
+Accuracy of Epoch 140: 94.78547854785478
+Loss of Epoch 141: 16.27703366427886, Average: 0.02 
+
+Accuracy of Epoch 141: 94.88448844884489
+Loss of Epoch 142: 13.591285728900402, Average: 0.02 
+
+Accuracy of Epoch 142: 95.61056105610561
+Loss of Epoch 143: 12.471760268410435, Average: 0.02 
+
+Accuracy of Epoch 143: 94.42244224422443
+Loss of Epoch 144: 12.4683425749663, Average: 0.02 
+
+Accuracy of Epoch 144: 96.10561056105611
+Loss of Epoch 145: 13.394408191203183, Average: 0.02 
+
+Accuracy of Epoch 145: 93.72937293729373
+Loss of Epoch 146: 14.999247273681249, Average: 0.02 
+
+Accuracy of Epoch 146: 95.74257425742574
+Loss of Epoch 147: 11.244546490233915, Average: 0.01 
+
+Accuracy of Epoch 147: 95.47854785478548
+Loss of Epoch 148: 14.628943222347516, Average: 0.02 
+
+Accuracy of Epoch 148: 95.97359735973598
+Loss of Epoch 149: 8.695475547399838, Average: 0.01 
+
+Accuracy of Epoch 149: 95.64356435643565
+Loss of Epoch 150: 5.333551181183793, Average: 0.01 
+
+Accuracy of Epoch 150: 96.00660066006601
+Loss of Epoch 151: 18.396216894005192, Average: 0.02 
+
+Accuracy of Epoch 151: 94.78547854785478
+Loss of Epoch 152: 11.67583166960685, Average: 0.02 
+
+Accuracy of Epoch 152: 94.38943894389439
+Loss of Epoch 153: 14.236841815580192, Average: 0.02 
+
+Accuracy of Epoch 153: 95.84158415841584
+Loss of Epoch 154: 8.60035675027757, Average: 0.01 
+
+Accuracy of Epoch 154: 95.14851485148515
+Loss of Epoch 155: 3.1679236195977865, Average: 0.00 
+
+Accuracy of Epoch 155: 95.44554455445545
+Loss of Epoch 156: 18.84923713373064, Average: 0.03 
+
+Accuracy of Epoch 156: 94.75247524752476
+Loss of Epoch 157: 11.648030752072373, Average: 0.02 
+
+Accuracy of Epoch 157: 95.61056105610561
+Loss of Epoch 158: 17.140909137171548, Average: 0.02 
+
+Accuracy of Epoch 158: 92.3102310231023
+Loss of Epoch 159: 13.451955879510933, Average: 0.02 
+
+Accuracy of Epoch 159: 95.24752475247524
+Loss of Epoch 160: 10.00426409413194, Average: 0.01 
+
+Accuracy of Epoch 160: 95.24752475247524
+Loss of Epoch 161: 6.464315416774298, Average: 0.01 
+
+Accuracy of Epoch 161: 95.28052805280528
+Loss of Epoch 162: 19.773920256700876, Average: 0.03 
+
+Accuracy of Epoch 162: 95.74257425742574
+Loss of Epoch 163: 11.475958917844764, Average: 0.02 
+
+Accuracy of Epoch 163: 95.04950495049505
+Loss of Epoch 164: 6.619626074356347, Average: 0.01 
+
+Accuracy of Epoch 164: 94.35643564356435
+Loss of Epoch 165: 16.29535100834255, Average: 0.02 
+
+Accuracy of Epoch 165: 94.68646864686468
+Loss of Epoch 166: 11.014816224627793, Average: 0.01 
+
+Accuracy of Epoch 166: 96.13861386138613
+Loss of Epoch 167: 14.881976627857512, Average: 0.02 
+
+Accuracy of Epoch 167: 95.21452145214522
+Loss of Epoch 168: 10.37265046874927, Average: 0.01 
+
+Accuracy of Epoch 168: 95.61056105610561
+Loss of Epoch 169: 16.96707063028225, Average: 0.02 
+
+Accuracy of Epoch 169: 95.54455445544555
+Loss of Epoch 170: 10.985978604334377, Average: 0.01 
+
+Accuracy of Epoch 170: 92.97029702970298
+Loss of Epoch 171: 10.857536865058137, Average: 0.01 
+
+Accuracy of Epoch 171: 95.8085808580858
+Loss of Epoch 172: 4.305392902755557, Average: 0.01 
+
+Accuracy of Epoch 172: 95.08250825082509
+Loss of Epoch 173: 15.381195062935149, Average: 0.02 
+
+Accuracy of Epoch 173: 95.74257425742574
+Loss of Epoch 174: 15.468692145546811, Average: 0.02 
+
+Accuracy of Epoch 174: 95.7095709570957
+Loss of Epoch 175: 10.004982600334188, Average: 0.01 
+
+Accuracy of Epoch 175: 95.01650165016501
+Loss of Epoch 176: 6.486328651459189, Average: 0.01 
+
+Accuracy of Epoch 176: 93.79537953795379
+Loss of Epoch 177: 18.973359681327565, Average: 0.03 
+
+Accuracy of Epoch 177: 95.41254125412541
+Loss of Epoch 178: 10.87892766215009, Average: 0.01 
+
+Accuracy of Epoch 178: 95.37953795379538
+Loss of Epoch 179: 10.97770221106839, Average: 0.01 
+
+Accuracy of Epoch 179: 96.10561056105611
+Loss of Epoch 180: 5.167647220991967, Average: 0.01 
+
+Accuracy of Epoch 180: 94.68646864686468
+Loss of Epoch 181: 17.90401814348661, Average: 0.02 
+
+Accuracy of Epoch 181: 91.61716171617162
+Loss of Epoch 182: 16.179658363264025, Average: 0.02 
+
+Accuracy of Epoch 182: 96.13861386138613
+Loss of Epoch 183: 5.7719720386508016, Average: 0.01 
+
+Accuracy of Epoch 183: 95.61056105610561
+Loss of Epoch 184: 14.20364655940466, Average: 0.02 
+
+Accuracy of Epoch 184: 94.22442244224422
+Loss of Epoch 185: 13.28328655963196, Average: 0.02 
+
+Accuracy of Epoch 185: 95.18151815181518
+Loss of Epoch 186: 7.344041329512038, Average: 0.01 
+
+Accuracy of Epoch 186: 95.21452145214522
+Loss of Epoch 187: 13.774352197640837, Average: 0.02 
+
+Accuracy of Epoch 187: 95.54455445544555
+Loss of Epoch 188: 9.132420012621878, Average: 0.01 
+
+Accuracy of Epoch 188: 93.6963696369637
+Loss of Epoch 189: 14.621741805000056, Average: 0.02 
+
+Accuracy of Epoch 189: 95.77557755775578
+Loss of Epoch 190: 6.065135058795931, Average: 0.01 
+
+Accuracy of Epoch 190: 96.07260726072607
+Loss of Epoch 191: 16.305004519941576, Average: 0.02 
+
+Accuracy of Epoch 191: 94.15841584158416
+Loss of Epoch 192: 18.86891105018367, Average: 0.03 
+
+Accuracy of Epoch 192: 94.25742574257426
+Loss of Epoch 193: 5.663235732975409, Average: 0.01 
+
+Accuracy of Epoch 193: 96.17161716171617
+Loss of Epoch 194: 13.573139419579093, Average: 0.02 
+
+Accuracy of Epoch 194: 96.3036303630363
+Loss of Epoch 195: 7.092838807304361, Average: 0.01 
+
+Accuracy of Epoch 195: 94.95049504950495
+Loss of Epoch 196: 13.68922867456422, Average: 0.02 
+
+Accuracy of Epoch 196: 94.88448844884489
+Loss of Epoch 197: 10.946441368016167, Average: 0.01 
+
+Accuracy of Epoch 197: 93.1023102310231
+Loss of Epoch 198: 11.396606876855003, Average: 0.02 
+
+Accuracy of Epoch 198: 95.01650165016501
+Loss of Epoch 199: 6.268990538057551, Average: 0.01 
+
+Accuracy of Epoch 199: 95.54455445544555
+Loss of Epoch 200: 14.628101043295828, Average: 0.02 
+
+Accuracy of Epoch 200: 94.62046204620462
+Loss of Epoch 201: 9.31618746894219, Average: 0.01 
+
+Accuracy of Epoch 201: 94.98349834983499
+Loss of Epoch 202: 13.101273856802436, Average: 0.02 
+
+Accuracy of Epoch 202: 93.76237623762377
+Loss of Epoch 203: 8.695776594408017, Average: 0.01 
+
+Accuracy of Epoch 203: 92.54125412541254
+Loss of Epoch 204: 12.423815031244885, Average: 0.02 
+
+Accuracy of Epoch 204: 94.85148514851485
+Loss of Epoch 205: 6.517336212154987, Average: 0.01 
+
+Accuracy of Epoch 205: 95.37953795379538
+Loss of Epoch 206: 12.999776863165607, Average: 0.02 
+
+Accuracy of Epoch 206: 95.01650165016501
+Loss of Epoch 207: 13.92593201069758, Average: 0.02 
+
+Accuracy of Epoch 207: 96.10561056105611
+Loss of Epoch 208: 1.3886951093586504, Average: 0.00 
+
+Accuracy of Epoch 208: 96.46864686468646
+Loss of Epoch 209: 17.844946634069856, Average: 0.02 
+
+Accuracy of Epoch 209: 94.98349834983499
+Loss of Epoch 210: 13.259409537355168, Average: 0.02 
+
+Accuracy of Epoch 210: 94.95049504950495
+Loss of Epoch 211: 15.38303345552049, Average: 0.02 
+
+Accuracy of Epoch 211: 94.98349834983499
+Loss of Epoch 212: 6.217046753099567, Average: 0.01 
+
+Accuracy of Epoch 212: 95.37953795379538
+Loss of Epoch 213: 18.388262829183077, Average: 0.02 
+
+Accuracy of Epoch 213: 94.38943894389439
+Loss of Epoch 214: 10.264591359094993, Average: 0.01 
+
+Accuracy of Epoch 214: 95.9075907590759
+Loss of Epoch 215: 8.71887157778292, Average: 0.01 
+
+Accuracy of Epoch 215: 95.67656765676567
+Loss of Epoch 216: 12.851186248539307, Average: 0.02 
+
+Accuracy of Epoch 216: 94.95049504950495
+Loss of Epoch 217: 11.410508902732545, Average: 0.02 
+
+Accuracy of Epoch 217: 94.25742574257426
+Loss of Epoch 218: 7.633618554436907, Average: 0.01 
+
+Accuracy of Epoch 218: 94.88448844884489
+Loss of Epoch 219: 7.06553489293583, Average: 0.01 
+
+Accuracy of Epoch 219: 94.1914191419142
+Loss of Epoch 220: 16.67043078383722, Average: 0.02 
+
+Accuracy of Epoch 220: 95.47854785478548
+Loss of Epoch 221: 4.792357537790394, Average: 0.01 
+
+Accuracy of Epoch 221: 95.28052805280528
+Loss of Epoch 222: 20.39328006922733, Average: 0.03 
+
+Accuracy of Epoch 222: 95.28052805280528
+Loss of Epoch 223: 9.42692993692981, Average: 0.01 
+
+Accuracy of Epoch 223: 94.98349834983499
+Loss of Epoch 224: 9.481665791183332, Average: 0.01 
+
+Accuracy of Epoch 224: 95.61056105610561
+Loss of Epoch 225: 14.293185655604248, Average: 0.02 
+
+Accuracy of Epoch 225: 94.81848184818482
+Loss of Epoch 226: 14.486812194852973, Average: 0.02 
+
+Accuracy of Epoch 226: 96.3036303630363
+Loss of Epoch 227: 7.193882856090568, Average: 0.01 
+
+Accuracy of Epoch 227: 95.67656765676567
+Loss of Epoch 228: 9.564600111118125, Average: 0.01 
+
+Accuracy of Epoch 228: 95.34653465346534
+Loss of Epoch 229: 13.75155972893026, Average: 0.02 
+
+Accuracy of Epoch 229: 95.37953795379538
+Loss of Epoch 230: 11.586262191829519, Average: 0.02 
+
+Accuracy of Epoch 230: 94.68646864686468
+Loss of Epoch 231: 6.290532030770009, Average: 0.01 
+
+Accuracy of Epoch 231: 93.86138613861387
+Loss of Epoch 232: 16.013750465382145, Average: 0.02 
+
+Accuracy of Epoch 232: 96.20462046204621
+Loss of Epoch 233: 12.958506827817473, Average: 0.02 
+
+Accuracy of Epoch 233: 95.67656765676567
+Loss of Epoch 234: 12.763264239702039, Average: 0.02 
+
+Accuracy of Epoch 234: 96.07260726072607
+Loss of Epoch 235: 1.4489696440214175, Average: 0.00 
+
+Accuracy of Epoch 235: 95.97359735973598
+Loss of Epoch 236: 16.628747697253857, Average: 0.02 
+
+Accuracy of Epoch 236: 93.3993399339934
+Loss of Epoch 237: 9.737610937116187, Average: 0.01 
+
+Accuracy of Epoch 237: 93.13531353135313
+Loss of Epoch 238: 8.18451553959676, Average: 0.01 
+
+Accuracy of Epoch 238: 94.88448844884489
+Loss of Epoch 239: 16.016880693590792, Average: 0.02 
+
+Accuracy of Epoch 239: 96.00660066006601
+Loss of Epoch 240: 12.776889382861555, Average: 0.02 
+
+Accuracy of Epoch 240: 95.14851485148515
+Loss of Epoch 241: 5.939141236182877, Average: 0.01 
+
+Accuracy of Epoch 241: 94.65346534653466
+Loss of Epoch 242: 5.819364456034236, Average: 0.01 
+
+Accuracy of Epoch 242: 95.7095709570957
+Loss of Epoch 243: 18.433640058196033, Average: 0.02 
+
+Accuracy of Epoch 243: 94.2904290429043
+Loss of Epoch 244: 6.179315805677106, Average: 0.01 
+
+Accuracy of Epoch 244: 95.31353135313532
+Loss of Epoch 245: 3.526932838009998, Average: 0.00 
+
+Accuracy of Epoch 245: 94.88448844884489
+Loss of Epoch 246: 20.535138226036906, Average: 0.03 
+
+Accuracy of Epoch 246: 95.11551155115511
+Loss of Epoch 247: 6.068354368971086, Average: 0.01 
+
+Accuracy of Epoch 247: 91.51815181518151
+Loss of Epoch 248: 17.350835213830578, Average: 0.02 
+
+Accuracy of Epoch 248: 94.85148514851485
+Loss of Epoch 249: 15.201590238353674, Average: 0.02 
+
+Accuracy of Epoch 249: 95.18151815181518
+Loss of Epoch 250: 14.11240635705326, Average: 0.02 
+
+Accuracy of Epoch 250: 95.14851485148515
+Loss of Epoch 251: 10.313399362912605, Average: 0.01 
+
+Accuracy of Epoch 251: 95.87458745874588
+Loss of Epoch 252: 11.865695770180537, Average: 0.02 
+
+Accuracy of Epoch 252: 95.44554455445545
+Loss of Epoch 253: 2.5986056246047156, Average: 0.00 
+
+Accuracy of Epoch 253: 94.85148514851485
+Loss of Epoch 254: 13.532474088784511, Average: 0.02 
+
+Accuracy of Epoch 254: 95.01650165016501
+Loss of Epoch 255: 12.204671618972498, Average: 0.02 
+
+Accuracy of Epoch 255: 92.64026402640265
+Loss of Epoch 256: 13.409922280443425, Average: 0.02 
+
+Accuracy of Epoch 256: 94.98349834983499
+Loss of Epoch 257: 3.6839613293145703, Average: 0.00 
+
+Accuracy of Epoch 257: 96.00660066006601
+Loss of Epoch 258: 16.923071495766635, Average: 0.02 
+
+Accuracy of Epoch 258: 94.75247524752476
+Loss of Epoch 259: 10.123939904387953, Average: 0.01 
+
+Accuracy of Epoch 259: 92.34323432343234
+Loss of Epoch 260: 12.372658263197081, Average: 0.02 
+
+Accuracy of Epoch 260: 95.21452145214522
+Loss of Epoch 261: 13.34647599998516, Average: 0.02 
+
+Accuracy of Epoch 261: 95.24752475247524
+Loss of Epoch 262: 9.943068370635956, Average: 0.01 
+
+Accuracy of Epoch 262: 95.97359735973598
+Loss of Epoch 263: 2.4063072198937334, Average: 0.00 
+
+Accuracy of Epoch 263: 96.00660066006601
+Loss of Epoch 264: 14.275823632643096, Average: 0.02 
+
+Accuracy of Epoch 264: 93.3993399339934
+Loss of Epoch 265: 7.602527899655797, Average: 0.01 
+
+Accuracy of Epoch 265: 96.3036303630363
+Loss of Epoch 266: 15.068310200709675, Average: 0.02 
+
+Accuracy of Epoch 266: 96.27062706270627
+Loss of Epoch 267: 14.09566452049512, Average: 0.02 
+
+Accuracy of Epoch 267: 94.65346534653466
+Loss of Epoch 268: 15.431874775540564, Average: 0.02 
+
+Accuracy of Epoch 268: 96.13861386138613
+Loss of Epoch 269: 6.3885927500414255, Average: 0.01 
+
+Accuracy of Epoch 269: 95.14851485148515
+Loss of Epoch 270: 8.467907892991207, Average: 0.01 
+
+Accuracy of Epoch 270: 94.35643564356435
+Loss of Epoch 271: 11.788975723345175, Average: 0.02 
+
+Accuracy of Epoch 271: 93.82838283828383
+Loss of Epoch 272: 12.615660349754762, Average: 0.02 
+
+Accuracy of Epoch 272: 94.12541254125412
+Loss of Epoch 273: 12.245289322521785, Average: 0.02 
+
+Accuracy of Epoch 273: 93.3993399339934
+Loss of Epoch 274: 11.123745942482856, Average: 0.01 
+
+Accuracy of Epoch 274: 95.61056105610561
+Loss of Epoch 275: 6.082182131897753, Average: 0.01 
+
+Accuracy of Epoch 275: 95.57755775577557
+Loss of Epoch 276: 11.500373625902284, Average: 0.02 
+
+Accuracy of Epoch 276: 92.77227722772277
+Loss of Epoch 277: 6.918330533099834, Average: 0.01 
+
+Accuracy of Epoch 277: 95.37953795379538
+Loss of Epoch 278: 12.537470774305802, Average: 0.02 
+
+Accuracy of Epoch 278: 94.48844884488449
+Loss of Epoch 279: 11.370934666321773, Average: 0.02 
+
+Accuracy of Epoch 279: 93.56435643564356
+Loss of Epoch 280: 13.846568023653163, Average: 0.02 
+
+Accuracy of Epoch 280: 95.47854785478548
+Loss of Epoch 281: 9.602819885863482, Average: 0.01 
+
+Accuracy of Epoch 281: 95.61056105610561
+Loss of Epoch 282: 12.797386851621013, Average: 0.02 
+
+Accuracy of Epoch 282: 94.22442244224422
+Loss of Epoch 283: 12.589475052569469, Average: 0.02 
+
+Accuracy of Epoch 283: 95.21452145214522
+Loss of Epoch 284: 4.219668867337532, Average: 0.01 
+
+Accuracy of Epoch 284: 95.14851485148515
+Loss of Epoch 285: 11.58964344060314, Average: 0.02 
+
+Accuracy of Epoch 285: 94.05940594059406
+Loss of Epoch 286: 12.110119156177461, Average: 0.02 
+
+Accuracy of Epoch 286: 94.88448844884489
+Loss of Epoch 287: 14.16534295674137, Average: 0.02 
+
+Accuracy of Epoch 287: 93.20132013201321
+Loss of Epoch 288: 9.47785561206365, Average: 0.01 
+
+Accuracy of Epoch 288: 95.11551155115511
+Loss of Epoch 289: 18.05769050998788, Average: 0.02 
+
+Accuracy of Epoch 289: 95.47854785478548
+Loss of Epoch 290: 8.316259773449929, Average: 0.01 
+
+Accuracy of Epoch 290: 95.84158415841584
+Loss of Epoch 291: 9.886648727683678, Average: 0.01 
+
+Accuracy of Epoch 291: 90.95709570957095
+Loss of Epoch 292: 15.774951543360658, Average: 0.02 
+
+Accuracy of Epoch 292: 93.99339933993399
+Loss of Epoch 293: 16.283343785307807, Average: 0.02 
+
+Accuracy of Epoch 293: 95.18151815181518
+Loss of Epoch 294: 2.3635047890365968, Average: 0.00 
+
+Accuracy of Epoch 294: 96.23762376237623
+Loss of Epoch 295: 8.999979999840434, Average: 0.01 
+
+Accuracy of Epoch 295: 92.54125412541254
+Loss of Epoch 296: 16.798836969297554, Average: 0.02 
+
+Accuracy of Epoch 296: 95.87458745874588
+Loss of Epoch 297: 10.754032740325783, Average: 0.01 
+
+Accuracy of Epoch 297: 95.51155115511551
+Loss of Epoch 298: 7.1640410695035825, Average: 0.01 
+
+Accuracy of Epoch 298: 94.02640264026402
+Loss of Epoch 299: 9.550197594886413, Average: 0.01 
+
+Accuracy of Epoch 299: 95.87458745874588
+Loss of Epoch 300: 17.307044768112974, Average: 0.02 
+
+Accuracy of Epoch 300: 95.97359735973598
+Finished Training
+Best model with width 2 had accuracy 96.83168316831683 at epoch 105
+
+Testing last model:
+
+Accuracy: 95.263509006004
+
+Testing best model:
+
+Accuracy: 96.09739826551034
+
+Failsafe for losses/accs:
+Width: 0.5
+
+Losses: [2.1988467928568523, 1.6699955770174661, 1.4093447479406993, 1.2074100907643637, 1.0450876843531927, 0.8840999021530151, 0.7616873957713445, 0.6493805298805236, 0.5464010284344355, 0.4661345185538133, 0.41569937859972317, 0.33820258229970934, 0.30060653044780095, 0.2680086055199305, 0.23816422339032095, 0.18207462955017883, 0.20869490426778795, 0.1677363289569815, 0.17520423742135366, 0.14580401312559843, 0.143602446410805, 0.12740587412690124, 0.1286124668220679, 0.13402082649121683, 0.09464198016313215, 0.08868539565118651, 0.10488416749363144, 0.08687227006535977, 0.09422440572734922, 0.08952312062525501, 0.0866456635594368, 0.08651994075191517, 0.07428191795634727, 0.08489977367129177, 0.07547410689558214, 0.06614114298904315, 0.058927542448509486, 0.0736337051501808, 0.06892336777450206, 0.05733072247247522, 0.05953331575115832, 0.05361561266635544, 0.05122567628549102, 0.058095302466923994, 0.05800723760047306, 0.04309857457565765, 0.048286174735908086, 0.06822295234282501, 0.039801635070044236, 0.050449356354695434, 0.0391721343540897, 0.04712209321395494, 0.047557468514540235, 0.045758724520526206, 0.04014382204801465, 0.04772810174024198, 0.03135425800426553, 0.05657165257531839, 0.03469232071485991, 0.06113637337779316, 0.044764763108299424, 0.029974381551146508, 0.03954075220712305, 0.038578654869964035, 0.03419457876146771, 0.03818309103876042, 0.03364095429672549, 0.043195299786205094, 0.03965723148927403, 0.020295513873900443, 0.044338801214684885, 0.03477209155540913, 0.014866860112369372, 0.049394909166459305, 0.04022756685464022, 0.021512800853621835, 0.03520970365327473, 0.03538044439442456, 0.030050905237168385, 0.029697479726281017, 0.03148761434177868, 0.025840751189699706, 0.01622114708769368, 0.045549519153661094, 0.022737248688412363, 0.04500676819406605, 0.015053035858572306, 0.030214684288512216, 0.02791116295297009, 0.02304727184397052, 0.03939543424620448, 0.020775715543529562, 0.02875967226899229, 0.03318040040294484, 0.03064749801835084, 0.04098181515846712, 0.03659156547661405, 0.016327095528463058, 0.026182009019859835, 0.037417350435241435, 0.015686271365867772, 0.028640037546729825, 0.029010864599976535, 0.025856893857203734, 0.018617790294418228, 0.02577291605049201, 0.023946552389553594, 0.02953675088007003, 0.022770169104100204, 0.03138402237382252, 0.029155319400539156, 0.035725993732165076, 0.019502117125569686, 0.02142892651098858, 0.031042623680715527, 0.021485801177700825, 0.025196447429499433, 0.030556089191057255, 0.026097358126135076, 0.028925280125054995, 0.018668982462666465, 0.028610288611380385, 0.02070040241870447, 0.02147647450476264, 0.01783375229650604, 0.036237193565340324, 0.027925320213505377, 0.01216560585705156, 0.03307631682015684, 0.02849319704226218, 0.012863221541241122, 0.020664998785194864, 0.02209215831371936, 0.028590520391774288, 0.021338899607925364, 0.024028452489932534, 0.024525863767310512, 0.02814678100803091, 0.0226799622818556, 0.02550337548405514, 0.02967373871097031, 0.017258810282413228, 0.025336031041195382, 0.011441247176747615, 0.026464458949378846, 0.019973396169632906, 0.0320375318423224, 0.025572558925089348, 0.01566520527823013, 0.023911453645094297, 0.018102057563790973, 0.02000055828122034, 0.019111045002073904, 0.01678386364916029, 0.026853587612111974, 0.03149792737084984, 0.013082402594775583, 0.019947575913063096, 0.02307650988754661, 0.01912064354113924, 0.015897105234500487, 0.025199435083787344, 0.030496511841823424, 0.017450397105683805, 0.020611866080890953, 0.016229433039234815, 0.027234970780089497, 0.021183762862890337, 0.02078885568398012, 0.022300251506171966, 0.006381319227075437, 0.041175735738574686, 0.013333026002597762, 0.031222376284902566, 0.025117248367586095, 0.023514731078689996, 0.019933108343587566, 0.02398779927061211, 0.021169683524291032, 0.018487318262714932, 0.024531018571074432, 0.03133420385093389, 0.012776541079753467, 0.01635098932878221, 0.028278916351196434, 0.024013349076378896, 0.013995520747669313, 0.013662428566797946, 0.029813571386010155, 0.021081076805790265, 0.024066409288284678, 0.026348839912636323, 0.007950209533097222, 0.023599927676235286, 0.03284671425955215, 0.024208960433704, 0.015233185131752786, 0.017460341969698978, 0.017994271328653364, 0.024627634550056732, 0.013731253192274986, 0.026968458749101653, 0.011556034337098633, 0.02801369877070344, 0.017870018443175165, 0.01834233821441012, 0.01457644486072968, 0.030415282572212165, 0.008847798464169804, 0.030509014851665902, 0.02139596958551556, 0.019931948668134282, 0.01539809029113773, 0.03070373594275831, 0.012737080613219102, 0.025725956288331266, 0.024319109734041073, 0.02215449462769902, 0.015185693509149133, 0.023810448566665098, 0.030164423283325352, 0.015284561573440441, 0.011565981111081782, 0.030476838236359376, 0.007297372511064168, 0.03473023150595448, 0.023835849838418653, 0.017501858430565335, 0.009459570598335024, 0.024980855880246962, 0.020695271043805405, 0.019654848975507774, 0.005936441397893456, 0.02615265687572052, 0.010597111869360864, 0.038596442761311966, 0.020068158865188403, 0.011349221337664252, 0.025549850255561373, 0.014032950074901842, 0.019164150844483325, 0.02436384786995283, 0.012167193210301776, 0.03953504632459953, 0.006443060633779775, 0.02814063227495353, 0.009498021881906122, 0.023125918324517745, 0.03451746726043833, 0.011248502285957026, 0.022687791646729846, 0.02217679181866697, 0.02005832773250101, 0.010788757277070545, 0.020965736711824622, 0.02717946068078163, 0.018364801522305546, 0.021711350174606195, 0.022761719834263203, 0.017304638586288397, 0.011285636573190762, 0.0356196042454103, 0.021552648016033345, 0.012326662836972294, 0.028270886243970988, 0.009856531186936385, 0.03178065723623149, 0.018363973552031287, 0.013300958968810544, 0.02641090559917696, 0.02567037123121554, 0.005004945214275115, 0.028630166184923533, 0.01019191987045148, 0.026942595414613607, 0.017634309106651928, 0.027053149862845505, 0.017402740379271562, 0.03306999388249824, 0.023475653784592092, 0.019896290796546964, 0.01282349277973602, 0.019115580296876336, 0.02579970141367327, 0.01956481304552775, 0.019827113950576555, 0.020660087345992603, 0.023670870795496738, 0.006179833457235266, 0.027746189842572978, 0.019675230495330955, 0.015624738222608963, 0.015714664501681304, 0.024876155292576488, 0.021400534248668314, 0.018634215429075993, 0.021493065905582625, 0.013924853514816884, 0.027363459823992648, 0.01453097228342085]
+
+Accuracies: [42.40924092409241, 55.21452145214521, 62.244224422442244, 67.92079207920793, 70.6930693069307, 74.15841584158416, 77.72277227722772, 80.0990099009901, 82.57425742574257, 83.63036303630363, 87.1947194719472, 86.83168316831683, 85.47854785478548, 85.14851485148515, 88.87788778877888, 81.78217821782178, 86.66666666666667, 89.07590759075907, 91.05610561056106, 90.92409240924093, 88.41584158415841, 93.43234323432343, 92.83828382838284, 90.39603960396039, 94.12541254125412, 88.21782178217822, 93.003300330033, 93.3003300330033, 87.52475247524752, 93.63036303630363, 92.83828382838284, 90.99009900990099, 90.16501650165017, 89.33993399339934, 92.8052805280528, 94.71947194719472, 92.57425742574257, 89.00990099009901, 93.16831683168317, 93.72937293729373, 90.4950495049505, 91.05610561056106, 91.91419141914191, 95.77557755775578, 80.82508250825083, 93.6963696369637, 94.2904290429043, 95.18151815181518, 93.66336633663366, 93.46534653465346, 94.55445544554455, 90.0, 94.45544554455445, 93.23432343234323, 94.62046204620462, 93.33333333333333, 89.33993399339934, 95.97359735973598, 92.24422442244224, 91.15511551155116, 95.84158415841584, 93.1023102310231, 94.78547854785478, 94.32343234323433, 92.54125412541254, 95.87458745874588, 94.75247524752476, 90.33003300330033, 94.71947194719472, 95.04950495049505, 92.83828382838284, 95.41254125412541, 95.64356435643565, 93.86138613861387, 95.41254125412541, 95.18151815181518, 93.06930693069307, 94.68646864686468, 94.32343234323433, 90.99009900990099, 93.86138613861387, 94.12541254125412, 92.64026402640265, 95.04950495049505, 94.88448844884489, 94.1914191419142, 95.51155115511551, 93.4983498349835, 92.27722772277228, 94.48844884488449, 93.53135313531354, 92.87128712871286, 94.45544554455445, 94.12541254125412, 95.57755775577557, 95.04950495049505, 93.46534653465346, 95.77557755775578, 93.46534653465346, 93.06930693069307, 95.37953795379538, 94.58745874587459, 94.42244224422443, 93.6963696369637, 93.26732673267327, 94.62046204620462, 92.67326732673267, 92.64026402640265, 93.99339933993399, 94.42244224422443, 94.0924092409241, 95.41254125412541, 93.26732673267327, 93.76237623762377, 92.17821782178218, 93.76237623762377, 94.45544554455445, 92.01320132013201, 94.48844884488449, 94.68646864686468, 95.28052805280528, 95.04950495049505, 92.17821782178218, 94.22442244224422, 93.66336633663366, 94.68646864686468, 95.54455445544555, 94.32343234323433, 94.05940594059406, 95.44554455445545, 95.11551155115511, 94.91749174917491, 92.50825082508251, 95.08250825082509, 94.78547854785478, 94.1914191419142, 94.95049504950495, 93.99339933993399, 95.31353135313532, 91.32013201320132, 95.04950495049505, 92.40924092409242, 94.15841584158416, 95.51155115511551, 94.85148514851485, 93.3003300330033, 93.99339933993399, 93.36633663366337, 95.67656765676567, 94.48844884488449, 91.55115511551155, 94.12541254125412, 93.23432343234323, 95.84158415841584, 91.74917491749174, 94.78547854785478, 95.08250825082509, 93.13531353135313, 95.54455445544555, 93.82838283828383, 94.2904290429043, 93.5973597359736, 93.82838283828383, 94.1914191419142, 93.72937293729373, 95.7095709570957, 92.27722772277228, 94.78547854785478, 93.96039603960396, 95.08250825082509, 93.63036303630363, 94.62046204620462, 93.86138613861387, 94.85148514851485, 94.65346534653466, 94.55445544554455, 94.35643564356435, 94.95049504950495, 92.24422442244224, 92.01320132013201, 93.46534653465346, 94.62046204620462, 95.74257425742574, 89.60396039603961, 92.97029702970298, 94.1914191419142, 95.31353135313532, 90.99009900990099, 93.92739273927393, 94.88448844884489, 92.47524752475248, 95.24752475247524, 94.58745874587459, 93.89438943894389, 95.08250825082509, 93.36633663366337, 95.34653465346534, 93.92739273927393, 93.33333333333333, 93.63036303630363, 95.08250825082509, 94.78547854785478, 94.98349834983499, 90.0, 94.2904290429043, 93.3993399339934, 94.2904290429043, 95.04950495049505, 92.2112211221122, 95.51155115511551, 94.32343234323433, 94.58745874587459, 94.71947194719472, 95.7095709570957, 94.15841584158416, 95.57755775577557, 94.71947194719472, 95.08250825082509, 93.63036303630363, 92.17821782178218, 95.31353135313532, 94.58745874587459, 94.25742574257426, 95.87458745874588, 94.95049504950495, 92.87128712871286, 95.51155115511551, 95.31353135313532, 94.75247524752476, 93.66336633663366, 93.06930693069307, 94.42244224422443, 95.24752475247524, 93.6963696369637, 94.32343234323433, 94.58745874587459, 95.18151815181518, 93.96039603960396, 94.22442244224422, 94.81848184818482, 93.46534653465346, 95.57755775577557, 95.47854785478548, 95.47854785478548, 95.31353135313532, 93.4983498349835, 94.71947194719472, 90.62706270627062, 94.91749174917491, 95.57755775577557, 94.0924092409241, 93.89438943894389, 94.95049504950495, 93.03630363036304, 94.48844884488449, 94.22442244224422, 93.33333333333333, 94.58745874587459, 94.15841584158416, 95.24752475247524, 92.54125412541254, 93.72937293729373, 95.8085808580858, 95.24752475247524, 93.72937293729373, 94.58745874587459, 93.5973597359736, 95.37953795379538, 92.37623762376238, 93.79537953795379, 93.99339933993399, 95.8085808580858, 94.58745874587459, 95.8085808580858, 94.65346534653466, 92.70627062706271, 94.71947194719472, 92.60726072607261, 93.99339933993399, 93.92739273927393, 94.05940594059406, 95.11551155115511, 91.84818481848185, 94.05940594059406, 94.52145214521452, 92.9042904290429, 94.12541254125412, 94.42244224422443, 91.61716171617162, 92.40924092409242, 94.95049504950495, 93.43234323432343, 94.22442244224422, 94.05940594059406, 95.51155115511551, 93.92739273927393, 94.58745874587459, 93.43234323432343, 94.62046204620462, 93.99339933993399]
+
+Validation Loss: [1.8996029602853874, 1.3933949216416008, 1.192955922453027, 0.9966617135625137, 0.9026092290094024, 0.7794431415435515, 0.6496392112029227, 0.5688176756038478, 0.5292611766802637, 0.4896823198093396, 0.38210768458482464, 0.38362309912366693, 0.445328831971672, 0.42061755234669695, 0.3346505070203229, 0.6385059901366108, 0.4193755567318907, 0.36567415906312434, 0.2738051910137169, 0.28275789264834633, 0.34464374989344687, 0.2026202957096853, 0.2219898715884866, 0.27837213570203045, 0.2044826853554696, 0.42150494377496406, 0.2081023547841285, 0.19786570552295368, 0.43311580178376874, 0.21278668438991238, 0.22527679356158173, 0.3099993528406087, 0.3405868956500566, 0.34603679667358705, 0.25490505521914825, 0.17906878621004962, 0.24601190900460718, 0.36439764191837687, 0.23639772683864546, 0.21022825904074124, 0.3827804034477786, 0.34009893616220277, 0.2685608288009749, 0.14875918108001843, 0.8472602488129939, 0.23419006302229767, 0.22389937895845116, 0.1716895132650327, 0.1916094596767308, 0.20728258089909918, 0.18326033733288855, 0.37734922484837863, 0.18902575473912292, 0.2177625328688392, 0.21396596745992275, 0.23489243303483817, 0.39911851388291997, 0.1434215472683335, 0.30146370708856635, 0.3210935226408765, 0.15332706657498324, 0.24768539776023796, 0.1958832923169738, 0.1938433170482504, 0.27677785417832446, 0.1534775910774586, 0.20333732961995626, 0.37439759892570834, 0.1907386680663254, 0.1986057890938307, 0.27417590681365445, 0.1723930515197265, 0.16127835806569477, 0.22728369564804446, 0.17681860737655752, 0.17825484595119442, 0.25346263407202635, 0.219541790471014, 0.2287632184286945, 0.37232412336130727, 0.2614697687465722, 0.2704629359000376, 0.30502688876310313, 0.20019665477752585, 0.20482107381195466, 0.20945011153058946, 0.1702886610363892, 0.2511367945588733, 0.2844001086811898, 0.213026083997944, 0.22074518370530935, 0.26946314234657237, 0.2060594635010746, 0.23097783461256002, 0.19271581557308978, 0.19426129564235453, 0.2546664191512575, 0.15871670657131626, 0.2561423499180053, 0.29230303055128865, 0.18096833284944297, 0.1996779534336192, 0.2225234957873813, 0.23606685587223375, 0.2682255739578977, 0.22090661570546216, 0.30005715959199925, 0.3057634426109297, 0.23123698658126063, 0.22915798508957347, 0.230563732375001, 0.1905722961736549, 0.26918245606908675, 0.23470730895335834, 0.3268946413097805, 0.2590070068096171, 0.2132695190032552, 0.32901920827145276, 0.23509115555789323, 0.21678923982192494, 0.1916984845041665, 0.20614123514406904, 0.3291153485094822, 0.22657656653747452, 0.26110797863159524, 0.19677962792369438, 0.1892817580707886, 0.2385036825442895, 0.23844130320741036, 0.1845091979249111, 0.217863546157605, 0.22261231605355677, 0.3232132414944078, 0.19967507543076768, 0.22660209527913186, 0.23742139959205433, 0.21329044058840355, 0.24723806154307615, 0.1983343587698121, 0.33526164545971704, 0.19955489505526586, 0.3108059576611451, 0.2278114223416962, 0.1999962058037023, 0.2066045145501113, 0.2853596236310726, 0.22907809379394167, 0.2748233672503327, 0.19346445728075004, 0.23133506366713463, 0.34898725852989104, 0.24454350228372373, 0.2755292398668213, 0.20199178793727218, 0.3278258125928819, 0.2054834345522977, 0.2163050912139864, 0.2748016743006271, 0.1934380043906889, 0.2506749846657888, 0.2264537006522388, 0.26142577029378644, 0.27819886151725387, 0.2418156100299185, 0.2941766757211697, 0.18656946743949926, 0.31174197376086865, 0.20580107430685435, 0.25872644938629635, 0.21130987747118957, 0.2635124999214895, 0.2101068411690281, 0.2528930754259866, 0.2064728036651535, 0.21931554752916685, 0.23259867851463098, 0.24663545378578802, 0.2190886420084433, 0.3330701317504894, 0.2986933757701512, 0.2642954229943969, 0.21356079261719346, 0.18186121778409486, 0.4598569319326136, 0.2855591466724658, 0.24844094978723566, 0.21470722643295487, 0.40579575730041956, 0.25678073898398956, 0.20684164135722982, 0.31596036918436815, 0.19903791968137835, 0.24547272848584198, 0.27096607787963495, 0.20064488531850083, 0.24523600814955945, 0.20258169905772727, 0.23833098316696888, 0.28945788853421905, 0.2500357182172593, 0.1982307857852184, 0.2142563669064609, 0.20676536931546013, 0.3990302850642413, 0.22397067024078415, 0.2670893090120731, 0.2466601528578107, 0.19208222349315243, 0.3318220108017206, 0.18033280123858467, 0.23319984915173048, 0.2317043027467566, 0.2335542317521207, 0.18473731596696827, 0.2534567059351646, 0.18215294931555706, 0.20565955351983, 0.2116548194387609, 0.27004297777277414, 0.3239918121268458, 0.19980676947176873, 0.2066212155004522, 0.24958264413848827, 0.1686772607524242, 0.23549435629538493, 0.3010146495539965, 0.17455072949654238, 0.20089186264280887, 0.23238822575635584, 0.2584238490702486, 0.2898004629986214, 0.23104859521628274, 0.2184387124623754, 0.2683400497318392, 0.22734433637692986, 0.21736287343389304, 0.21475074687562148, 0.28177415775104525, 0.24886042492768243, 0.22875713796590724, 0.2874773974040229, 0.186670418521757, 0.21444598897268358, 0.19926428875399946, 0.21384636226912812, 0.2502525730196411, 0.20447901172048755, 0.4083927553661756, 0.2095236409656584, 0.1746083045961936, 0.23919608914461846, 0.24214567384409938, 0.22634304472732383, 0.3029377898538338, 0.24095358369742922, 0.23473611345065076, 0.2792121107075026, 0.20880548561994816, 0.25771048261035745, 0.1876981231442953, 0.3247206122758048, 0.2562230802202784, 0.16759168343912614, 0.22483603744767605, 0.2537814834577914, 0.2211017418756934, 0.2553520010552587, 0.18882558334964988, 0.3239460998671252, 0.27661381240223387, 0.26704273960540853, 0.17790117212418025, 0.23771187969250604, 0.17727440781554354, 0.21806306579566903, 0.32831457624683696, 0.24243488801171464, 0.30222270889820435, 0.24021190982158785, 0.21580396108145483, 0.2306201696382088, 0.20937699868732843, 0.3203562304586644, 0.2596712767814384, 0.2439482329111534, 0.28908698286717194, 0.22654393507852402, 0.21428644604210076, 0.392914479984718, 0.29347041687578895, 0.20030788529946125, 0.2617670634093596, 0.28945310172926647, 0.26126762327529784, 0.19428677796654245, 0.24506281131026825, 0.2248330712364374, 0.23587659478653222, 0.22229142166554658, 0.25281826929514]
+Width: 1
+
+Losses: [2.2759390616416932, 1.7598117005825042, 1.52081769545873, 1.2987435058752697, 1.1520272713502249, 0.9753277038733165, 0.825416310509046, 0.7032161729335785, 0.5788391231099764, 0.49873201429843905, 0.40435573174556094, 0.35182972404360774, 0.30682188709576924, 0.2540240181932847, 0.2394236550827821, 0.18489491301526625, 0.1777656717126568, 0.17329830426101883, 0.14398441172329088, 0.13059496645008525, 0.12134269760300716, 0.12539695385098457, 0.09810592807053278, 0.10029224394261838, 0.09806442072118322, 0.09209595900122076, 0.08768276520632208, 0.08012578693653147, 0.08535124836862087, 0.06411110715878507, 0.07685309443343431, 0.0637351631129471, 0.0646843021659491, 0.0466729211792505, 0.07980688304756768, 0.05867307382868603, 0.06664402274865036, 0.04691883603910295, 0.04831932574161328, 0.05496770171941413, 0.05299838890049917, 0.039251845149944224, 0.05862731093688247, 0.02844270131108351, 0.05484841485216748, 0.05546625517983921, 0.02226609015162103, 0.048726007323362866, 0.0336450796603458, 0.04470762103524369, 0.03753011952755818, 0.03818807902528594, 0.042586424415853495, 0.017291797067116324, 0.04706011262574854, 0.0316904367817139, 0.03846933819260448, 0.03733768726912482, 0.029768473984537802, 0.0321622926259879, 0.04279230749195752, 0.02228974223920765, 0.026941366126799645, 0.03260828219004907, 0.037876319539655624, 0.02761083201689568, 0.027128118441207334, 0.037910576622739126, 0.034659279186608424, 0.019350443714259504, 0.03507218127656961, 0.0330163120397289, 0.023525338596412135, 0.018446725079624835, 0.03797757094101204, 0.012848582746111788, 0.03542352087867524, 0.0360215538990451, 0.027667364820236497, 0.02626942145265639, 0.032155257246243615, 0.03302139081369387, 0.02699551749296855, 0.020023540199385025, 0.023008512776868884, 0.024207991429575484, 0.02591604503511917, 0.022306372920235542, 0.027256448703526986, 0.026120863703322054, 0.018196580368385184, 0.03195662803313462, 0.020633494244888424, 0.02918112939367226, 0.01580015634659018, 0.01942684484187824, 0.021765567645362655, 0.025781155321300805, 0.01711736041145438, 0.02759699796848387, 0.02560672464488016, 0.018002169801552857, 0.02391195787161511, 0.026139455961664983, 0.014406300385841557, 0.026360958614037373, 0.019459902924863853, 0.011103427165779674, 0.031881305224213674, 0.028488180076053443, 0.01361571116252647, 0.020179762173521642, 0.028890513769205428, 0.014422031007726521, 0.018671093293984694, 0.032057904812633445, 0.007790414259468283, 0.028191237240821163, 0.019563904575819226, 0.02857428239689519, 0.006999756927019917, 0.021759503182925983, 0.021406109261103364, 0.029548534405611764, 0.009326054765624576, 0.023476074463154268, 0.026173513950586008, 0.015288639380722694, 0.005378177962675788, 0.02800954046236681, 0.015962194990201777, 0.022162517038862763, 0.021045488026361758, 0.019894076539450908, 0.01393131769404378, 0.029780192730152824, 0.010467006324994145, 0.026312710101575553, 0.017080253397813067, 0.024631889930858353, 0.026285492344759406, 0.023011787935654865, 0.015541559895277411, 0.02517610093575786, 0.017930984926434274, 0.007947532234407846, 0.022241143176686212, 0.02347354602350485, 0.02247568660857117, 0.005701714964629597, 0.028401097911118996, 0.013429643348334745, 0.013137467614292594, 0.028750326454552125, 0.010510275719112542, 0.021292665334660947, 0.02277872972243737, 0.024536870287382044, 0.0263218766853679, 0.0056032370675020505, 0.032931834374074244, 0.006887930354295046, 0.03017434708114403, 0.006838872621369471, 0.021911502965706556, 0.026209099837617638, 0.011285588902794795, 0.020885549939887522, 0.021970316075685937, 0.024512321448671475, 0.01591457079994143, 0.00867084471017976, 0.025728087433099667, 0.024036029590371374, 0.0035351876047170663, 0.029537866186013464, 0.01666139133873609, 0.01834497084963368, 0.03269572503271047, 0.020835795358308436, 0.00473245791302664, 0.012172213309148599, 0.024719298465710988, 0.019848537975922228, 0.01930510870568105, 0.0076240430189209295, 0.025175854114653097, 0.012811595751959734, 0.016594951123590967, 0.014571340210597555, 0.02373876397969434, 0.01663454828940303, 0.019155936238894354, 0.013144652455104128, 0.014553372151926548, 0.03505967491481957, 0.025241868018366708, 0.018611608769996867, 0.012825847403747806, 0.01909413681567821, 0.02122706204128432, 0.01190446939307003, 0.02572394205730234, 0.015060216965318734, 0.01455038694638885, 0.022501208424796155, 0.018485210423736135, 0.013322446203579603, 0.012540754228224009, 0.021465414532981716, 0.018445988944804412, 0.008208762681533699, 0.022447732850404765, 0.02027499347788398, 0.015244129282276845, 0.01451711230573225, 0.014556313638434707, 0.021314294194977264, 0.014809332397092173, 0.01819354042786775, 0.01358801434126993, 0.02361270849065719, 0.00573894441696757, 0.030120730353757, 0.017511870316445615, 0.0077563217870798935, 0.02405962556588444, 0.009316110894248898, 0.02050508809557262, 0.01802803554154646, 0.029470778576724116, 0.012993844232478296, 0.0037158111072082343, 0.02608292230732089, 0.009398627540465289, 0.014778822727084237, 0.01910824280197024, 0.006889250478142155, 0.023499595213921566, 0.014402877002020736, 0.025962544530790183, 0.013464599787504994, 0.014993923942032174, 0.023756549414193917, 0.009219739838241366, 0.01650124210001862, 0.016385641635330104, 0.02247268749769622, 0.018675569015841272, 0.013726463331200648, 0.01965591936521135, 0.00962892778628399, 0.0245988368462907, 0.008921071585549119, 0.01171521202523824, 0.02547922714748711, 0.003277516465134492, 0.024692200196356377, 0.01777691013381991, 0.010952860003468231, 0.015029939201119608, 0.022558286061442535, 0.004427398342913269, 0.017316102216757525, 0.022013050388991057, 0.016774105048233953, 0.019702749355138317, 0.016820506990217837, 0.011274953202169855, 0.022004225895905012, 0.023254569356223026, 0.005224178842875214, 0.021072486459403687, 0.008883577015985793, 0.028223652184019253, 0.016660406693277764, 0.00578092050340274, 0.02797683450881353, 0.020863566332656774, 0.016045632487444283, 0.021964176067723506, 0.024568571957293898, 0.008156859888314405, 0.014417736578026962, 0.021356110972211656, 0.02224851435242211, 0.010062356707448391, 0.023349730353812145, 0.020412561144801052, 0.017347298388849595, 0.009461724688712517, 0.023695804038473094, 0.0050703946309646804, 0.027981143688962522, 0.014619764410720866, 0.008790221961350956, 0.026695846711760774, 0.01859007701728357, 0.010730721846576974, 0.008244749620493774]
+
+Accuracies: [45.87458745874587, 49.37293729372937, 54.851485148514854, 61.584158415841586, 63.333333333333336, 70.13201320132013, 72.9042904290429, 80.56105610561056, 83.56435643564356, 83.3003300330033, 85.31353135313532, 84.85148514851485, 87.55775577557756, 89.33993399339934, 90.75907590759076, 80.1980198019802, 91.32013201320132, 89.57095709570957, 91.35313531353135, 90.26402640264027, 93.66336633663366, 90.99009900990099, 93.56435643564356, 93.76237623762377, 95.44554455445545, 89.07590759075907, 93.5973597359736, 92.87128712871286, 92.44224422442244, 95.37953795379538, 89.37293729372938, 95.21452145214522, 95.41254125412541, 93.86138613861387, 93.96039603960396, 90.85808580858085, 94.25742574257426, 95.28052805280528, 90.6930693069307, 95.41254125412541, 95.54455445544555, 94.0924092409241, 92.17821782178218, 95.37953795379538, 92.44224422442244, 95.57755775577557, 91.58415841584159, 92.64026402640265, 94.0924092409241, 95.97359735973598, 95.8085808580858, 93.66336633663366, 95.54455445544555, 96.13861386138613, 93.79537953795379, 93.3003300330033, 94.81848184818482, 95.14851485148515, 95.41254125412541, 94.45544554455445, 95.64356435643565, 94.1914191419142, 92.2112211221122, 93.3993399339934, 96.4026402640264, 93.56435643564356, 94.75247524752476, 94.71947194719472, 96.10561056105611, 95.11551155115511, 96.13861386138613, 96.43564356435644, 95.7095709570957, 94.68646864686468, 95.67656765676567, 96.6006600660066, 95.94059405940594, 92.40924092409242, 95.28052805280528, 94.75247524752476, 94.62046204620462, 95.08250825082509, 96.20462046204621, 94.0924092409241, 96.83168316831683, 93.92739273927393, 93.82838283828383, 96.10561056105611, 95.51155115511551, 95.54455445544555, 95.04950495049505, 94.88448844884489, 96.53465346534654, 94.75247524752476, 96.8976897689769, 95.44554455445545, 95.21452145214522, 96.17161716171617, 95.18151815181518, 93.89438943894389, 96.17161716171617, 95.18151815181518, 94.62046204620462, 95.87458745874588, 94.75247524752476, 95.57755775577557, 93.99339933993399, 95.9075907590759, 89.93399339933994, 95.84158415841584, 95.77557755775578, 95.51155115511551, 95.94059405940594, 96.13861386138613, 88.44884488448845, 95.77557755775578, 96.17161716171617, 94.25742574257426, 94.88448844884489, 95.94059405940594, 95.7095709570957, 93.76237623762377, 94.98349834983499, 96.20462046204621, 96.27062706270627, 96.03960396039604, 95.14851485148515, 95.74257425742574, 95.18151815181518, 95.57755775577557, 95.41254125412541, 96.27062706270627, 95.04950495049505, 95.51155115511551, 95.41254125412541, 95.84158415841584, 95.61056105610561, 96.3036303630363, 95.01650165016501, 94.22442244224422, 93.1023102310231, 96.10561056105611, 94.55445544554455, 95.8085808580858, 96.27062706270627, 94.48844884488449, 95.61056105610561, 95.04950495049505, 96.20462046204621, 94.2904290429043, 94.85148514851485, 96.46864686468646, 92.83828382838284, 95.08250825082509, 94.95049504950495, 94.15841584158416, 96.10561056105611, 94.25742574257426, 95.84158415841584, 95.41254125412541, 96.03960396039604, 96.27062706270627, 94.2904290429043, 96.13861386138613, 93.03630363036304, 95.97359735973598, 93.3993399339934, 94.75247524752476, 91.65016501650165, 94.88448844884489, 95.87458745874588, 95.9075907590759, 95.57755775577557, 95.97359735973598, 96.4026402640264, 93.5973597359736, 95.64356435643565, 94.71947194719472, 93.89438943894389, 96.27062706270627, 96.46864686468646, 90.29702970297029, 96.03960396039604, 94.78547854785478, 95.94059405940594, 94.65346534653466, 93.66336633663366, 95.84158415841584, 95.04950495049505, 95.18151815181518, 95.18151815181518, 89.5049504950495, 95.97359735973598, 96.13861386138613, 92.47524752475248, 94.91749174917491, 96.10561056105611, 95.9075907590759, 94.65346534653466, 95.8085808580858, 95.87458745874588, 94.62046204620462, 94.75247524752476, 95.37953795379538, 95.44554455445545, 95.87458745874588, 95.7095709570957, 94.32343234323433, 95.51155115511551, 90.4950495049505, 95.84158415841584, 95.94059405940594, 95.31353135313532, 95.7095709570957, 95.94059405940594, 94.68646864686468, 92.73927392739274, 95.11551155115511, 95.14851485148515, 95.47854785478548, 95.57755775577557, 95.14851485148515, 96.17161716171617, 93.3993399339934, 96.07260726072607, 92.77227722772277, 94.15841584158416, 96.13861386138613, 95.08250825082509, 95.34653465346534, 95.87458745874588, 95.97359735973598, 95.61056105610561, 94.91749174917491, 96.00660066006601, 95.11551155115511, 95.9075907590759, 93.20132013201321, 91.98019801980197, 94.58745874587459, 94.42244224422443, 96.07260726072607, 93.3993399339934, 95.84158415841584, 94.95049504950495, 94.38943894389439, 95.7095709570957, 95.57755775577557, 96.03960396039604, 94.05940594059406, 95.67656765676567, 93.20132013201321, 95.74257425742574, 95.61056105610561, 89.00990099009901, 95.74257425742574, 96.3036303630363, 95.47854785478548, 93.3003300330033, 95.74257425742574, 92.01320132013201, 95.94059405940594, 95.54455445544555, 94.42244224422443, 92.83828382838284, 95.74257425742574, 94.98349834983499, 96.4026402640264, 94.58745874587459, 96.3036303630363, 96.07260726072607, 96.43564356435644, 95.01650165016501, 96.10561056105611, 94.81848184818482, 96.33663366336634, 96.10561056105611, 95.34653465346534, 95.54455445544555, 94.95049504950495, 94.0924092409241, 95.54455445544555, 96.07260726072607, 93.1023102310231, 95.64356435643565, 96.86468646864687, 95.61056105610561, 95.28052805280528, 95.04950495049505, 95.64356435643565, 94.12541254125412, 96.03960396039604, 95.84158415841584, 95.84158415841584, 95.94059405940594, 95.8085808580858, 93.003300330033, 94.81848184818482, 94.68646864686468, 95.18151815181518]
+
+Validation Loss: [1.7520800433660808, 1.700609076650519, 1.4685777943385274, 1.1937081556571156, 1.1682743685810189, 0.8728233262112266, 0.7858219274564793, 0.5851809289306402, 0.47140127436110846, 0.49403423199332075, 0.4115512137742419, 0.45233231039080574, 0.3591313243892632, 0.2895574148793362, 0.26736586988707517, 0.6541624699768267, 0.27569178925018367, 0.3165041639175462, 0.28775721248484365, 0.28443435302837505, 0.20121541407853855, 0.26207267725533856, 0.17719535761463798, 0.20212641416736388, 0.1388959312990712, 0.3914653349873046, 0.20071003258681708, 0.23045877283347133, 0.2839724791505815, 0.15879777538663659, 0.37321960734008924, 0.16086477020519516, 0.171114471597646, 0.21389624361520537, 0.21117209714874136, 0.31569333254163595, 0.19083137250578913, 0.1701347355694069, 0.35494950031432765, 0.1749365200545933, 0.1654043084268587, 0.20702759879989716, 0.274498299108956, 0.16890441159925296, 0.2619298110568994, 0.1448094707423527, 0.30890321908671853, 0.27481439784774253, 0.20699103560871568, 0.15376859591329106, 0.14385731541995866, 0.22394259869918307, 0.1651625263912425, 0.14648849094932972, 0.21464252956869276, 0.2869958462211224, 0.2070082007466274, 0.2017479830541752, 0.17311968945221834, 0.209777920789398, 0.16336453031690326, 0.19266498063184373, 0.2844278078710072, 0.272433610329972, 0.14203531227904262, 0.26086579402686577, 0.2067979502565753, 0.18393556476964334, 0.1533276504855358, 0.20311784312182823, 0.15024722533939655, 0.14636270056055908, 0.16178320871702837, 0.19840542404022257, 0.17463499624205533, 0.14454928456851981, 0.17911095454565887, 0.32536745431655284, 0.21312689431950568, 0.23215604601703632, 0.19247193281296762, 0.1913124137705477, 0.1503680408259817, 0.274807462814313, 0.13793933569969866, 0.2243841397569907, 0.2287158721218523, 0.14855994318893767, 0.15366673263457703, 0.17050296076941826, 0.18911440927595802, 0.2068779830642406, 0.13234005067849802, 0.19571484709236564, 0.1394765717343513, 0.1681526465506881, 0.18227881880310584, 0.16043913034729101, 0.2082054642175679, 0.23454883444999147, 0.17283991343406582, 0.1853887504346762, 0.20388215508068433, 0.1720037436258185, 0.2256683489497702, 0.19853723129807277, 0.24001642921866734, 0.16885135365117, 0.39924756506975667, 0.19025620227728626, 0.18852466123889347, 0.1886787676084312, 0.1600542271569506, 0.1684072924801991, 0.6396377035533078, 0.17352417400351872, 0.1574238189463741, 0.24868018596354025, 0.1967980738341698, 0.1522165437191449, 0.18785365853034244, 0.2836980154603033, 0.21226874124507672, 0.17546612052384788, 0.1819660727027344, 0.17408091575948914, 0.17003287807303039, 0.1745943715857146, 0.2289802317670221, 0.19737208525514233, 0.2004801093303908, 0.1711424963841924, 0.19396615030985376, 0.20036001621850263, 0.18963328498267448, 0.1690729838753453, 0.1771735068019648, 0.15768842386971396, 0.20454581032891048, 0.2741234630293643, 0.27532549905230747, 0.15145911981367852, 0.2225320091533879, 0.19237784664606136, 0.1635408448835063, 0.23890326353912794, 0.19928315466340313, 0.214851150651444, 0.1696183876589394, 0.24329612581005725, 0.22132043264933407, 0.1540111616275872, 0.27892705167407833, 0.21310391165009748, 0.19933187948818637, 0.26348115996286076, 0.15672475741640052, 0.2390582302926831, 0.16007653558775162, 0.18543400448092334, 0.17369509546957776, 0.1845643049573961, 0.23226054900702653, 0.15550479798403102, 0.28652520871776355, 0.16404478138597609, 0.3325929776834145, 0.21605991665829175, 0.34103186095002647, 0.21048377091095685, 0.1676594902546544, 0.16699307412925823, 0.19973011037631966, 0.16737477196779524, 0.14299732105944138, 0.2565980710240853, 0.189669076081746, 0.24042579719848858, 0.24036788138485127, 0.16388320043028407, 0.16893143754111023, 0.440775380125208, 0.18140023356230048, 0.22364227150116534, 0.17323465862106163, 0.26145815871461403, 0.24449760980389423, 0.1873846169069446, 0.21441042055220783, 0.20734128909615193, 0.20893671274411885, 0.5174800653119364, 0.18245116123473148, 0.16992300808637276, 0.31607184090902785, 0.19740953332718497, 0.1706076641200956, 0.17814999227994122, 0.2284098810725386, 0.1964213948500018, 0.1981294825507671, 0.2137309282940183, 0.21172231970368843, 0.21006591353894022, 0.19718784304242085, 0.1765753787495573, 0.182810884845898, 0.23723097876623367, 0.2157125714351423, 0.4136637166546854, 0.18202827463740648, 0.18137308815279732, 0.22298677309100687, 0.16983682872271041, 0.18766902451350115, 0.21560875087789577, 0.36342394067185907, 0.20671952092793378, 0.20667889572188486, 0.174411185742735, 0.18990827645684477, 0.2073528432546793, 0.18122408752295469, 0.3147984832991106, 0.17845281749631747, 0.3260643230107809, 0.23862810482785693, 0.16432268769358893, 0.1965648203049664, 0.2219679420867526, 0.1778239164389034, 0.18620009966017326, 0.21551161445672015, 0.21428239223911844, 0.17780534849413304, 0.2206022127258046, 0.17185126342337753, 0.27799172488326135, 0.35314935465993536, 0.24823486399097755, 0.25814384490103726, 0.1938990142712627, 0.29210320596030215, 0.16862231290556098, 0.22461936651552128, 0.22371697045976027, 0.19392414036640396, 0.19425777898570926, 0.17009150582008786, 0.27543942914237146, 0.19484120401290345, 0.29673734670259844, 0.18737983009552983, 0.19386506738483597, 0.5317983466072627, 0.1989941575334677, 0.17163420370975233, 0.21570090716191578, 0.29867355969618076, 0.18901371155853236, 0.33699493264682945, 0.1871349180999938, 0.17334814577215615, 0.23501502130878324, 0.32676831338777457, 0.19484609630874872, 0.21829759546426908, 0.18603499845552218, 0.2504846117051018, 0.18674498012310084, 0.16572554219078722, 0.1620698634607451, 0.22656604974809422, 0.18074896590449882, 0.2272282778040359, 0.16495299736515767, 0.15508776338093938, 0.2082454695667318, 0.18683799499823228, 0.236539511497157, 0.24854090021131253, 0.18598377335004587, 0.17311809355404348, 0.3080022203132486, 0.19384215516252687, 0.1408143337439948, 0.16451841789637814, 0.19744254150933366, 0.22280987981702263, 0.18075746396844855, 0.2393005763116219, 0.17833415054401006, 0.1680809764930401, 0.17237076888138148, 0.1764706124677966, 0.18611299897772704, 0.27827641746997345, 0.23292801754742437, 0.25613149715942485, 0.217261464287453]
+Width: 2
+
+Losses: [2.343785237312317, 1.7747219343185425, 1.4940619112650553, 1.2678249134222666, 1.0616103172699611, 0.8912621412277222, 0.7217717753052711, 0.5861239343484242, 0.48349577712019287, 0.3678089369535446, 0.30998816148440045, 0.25342971677084764, 0.21440574154506126, 0.18258719231560827, 0.15044189287597934, 0.14080561632911365, 0.12166450343964001, 0.12983088803105056, 0.09684939612013599, 0.09008105147598933, 0.09151418652789046, 0.09347098620127266, 0.07731665850616992, 0.08158746947433489, 0.06195209180066983, 0.08367985599674284, 0.0494798326427117, 0.06336470113578252, 0.054852824798552316, 0.06471978470558921, 0.04730429248410898, 0.045541525909366706, 0.05080801925466706, 0.042677155008811196, 0.04725905023814024, 0.03870544463659947, 0.04912274822604377, 0.046790312749217265, 0.03834213636474063, 0.03640825320679384, 0.042655773660517295, 0.04039133723165529, 0.03655915801227093, 0.0251217932162884, 0.04260176333792818, 0.02714429697949284, 0.04334431778874326, 0.03022495084942784, 0.017846203256456646, 0.045084028754751974, 0.0339167151976338, 0.015892050145834218, 0.03371007158122181, 0.02779232889567114, 0.028291977044854623, 0.03082389058878956, 0.024596401934754493, 0.03265212022071743, 0.024798629630104794, 0.022110430613800417, 0.0245837291758653, 0.03745380497634566, 0.01874966698962574, 0.03208378968316053, 0.02690356944848706, 0.015921597102763675, 0.018709933164548904, 0.035403927875954345, 0.02527422973251669, 0.017297770906608397, 0.01862361338069604, 0.03677908732670767, 0.01254889978132269, 0.02292109161647386, 0.01421871834397219, 0.025524661141995846, 0.031284661844120515, 0.023398793803712275, 0.01257155910092115, 0.023221379732965338, 0.015864297468249182, 0.01976818189106901, 0.025514008800145045, 0.031310136224477904, 0.013447077175524706, 0.01658592164820099, 0.02024717979542038, 0.025693020357527227, 0.024084588923700113, 0.018465707553938653, 0.01956197553941456, 0.020910352931401577, 0.01660910129339512, 0.015142128893023861, 0.023598981207314258, 0.020269895343303992, 0.02194802550848302, 0.01436270933392613, 0.017967665691748454, 0.021491229339844722, 0.012561170705431626, 0.01986501923056009, 0.014365507050587136, 0.021631860825271968, 0.02309376218779168, 0.0035977144226126256, 0.029836145499512592, 0.0068110396644866945, 0.023468963609205577, 0.011378346152458108, 0.02868845996624926, 0.01664749448816777, 0.017356423959148135, 0.02355363124796228, 0.01284944174461028, 0.016150294273761877, 0.010617374501637338, 0.025302766395136133, 0.014773402506364315, 0.01060257175116567, 0.028414240083705713, 0.013228467448124623, 0.022333162776415217, 0.011377739065998564, 0.019022849529530504, 0.012772324050878523, 0.021138648713812776, 0.007440443571157327, 0.019032187198587052, 0.019979860362274244, 0.008417958728539815, 0.028074772819216984, 0.007079378915749355, 0.018433707578755273, 0.01460320862646525, 0.029371364236081717, 0.019596335156723703, 0.0054475199652830875, 0.032749205447806164, 0.010764347582822666, 0.021702711552371814, 0.018121714305200536, 0.016629013691213914, 0.016624456766621734, 0.017859210921604245, 0.01999899636490833, 0.01499272865364522, 0.01950525762979669, 0.011593967396533117, 0.007111401574911724, 0.024528289192006923, 0.015567775559475801, 0.01898245575410692, 0.011467142333703426, 0.004223898159463715, 0.02513231617830752, 0.01553070766942983, 0.02285454551622873, 0.017935941172681245, 0.013339018792175921, 0.008619087222365731, 0.0263652270089345, 0.015301278557126352, 0.008826168099141796, 0.021727134677790066, 0.014686421632837059, 0.019842635503810015, 0.013830200624999027, 0.022622760840376333, 0.014647971472445837, 0.014476715820077516, 0.005740523870340742, 0.020508260083913533, 0.020624922860729082, 0.013339976800445583, 0.008648438201945585, 0.025297812908436752, 0.014505236882866788, 0.01463693628142452, 0.006890196294655955, 0.02387202419131548, 0.021572877817685368, 0.007695962718201069, 0.018938195412539546, 0.017711048746175947, 0.009792055106016051, 0.01836580293018778, 0.012176560016829171, 0.019495655740000076, 0.008086846745061242, 0.02174000602658877, 0.02515854806691156, 0.007550980977300545, 0.018097519226105457, 0.009457118409739148, 0.01825230489941896, 0.01459525515735489, 0.01519547583580667, 0.008358654050743401, 0.019504134724394436, 0.01242158329192292, 0.01746836514240325, 0.011594368792544022, 0.016565086708326515, 0.008689781616206649, 0.017333035817554143, 0.01856790934759677, 0.0018515934791448671, 0.023793262178759808, 0.017679212716473557, 0.02051071127402732, 0.008289395670799423, 0.024517683772244104, 0.013686121812126657, 0.01162516210371056, 0.01713491499805241, 0.01521401187031006, 0.010178158072582544, 0.009420713190581105, 0.02222724104511629, 0.006389810050387193, 0.027191040092303106, 0.012569239915906413, 0.012642221054911109, 0.019057580874139, 0.019315749593137296, 0.009591843808120757, 0.0127528001481575, 0.018335412971907016, 0.015448349589106024, 0.008387376041026679, 0.021351667287176194, 0.017278009103756632, 0.017017685652936054, 0.00193195952536189, 0.022171663596338476, 0.01298348124948825, 0.010912687386129013, 0.021355840924787723, 0.017035852510482074, 0.00791885498157717, 0.007759152608045649, 0.024578186744261377, 0.008239087740902809, 0.004702577117346664, 0.027380184301382542, 0.008091139158628115, 0.023134446951774103, 0.020268786984471564, 0.018816541809404345, 0.01375119915055014, 0.015820927693574047, 0.003464807499472954, 0.018043298785046014, 0.01627289549196333, 0.017879896373924568, 0.004911948439086094, 0.022564095327688848, 0.013498586539183937, 0.016496877684262775, 0.017795301333313546, 0.013257424494181274, 0.003208409626524978, 0.019034431510190793, 0.01013670386620773, 0.0200910802676129, 0.01879421936066016, 0.020575833034054084, 0.0085181236667219, 0.01129054385732161, 0.015718634297793566, 0.016820880466339682, 0.016327052430029045, 0.014831661256643808, 0.00810957617586367, 0.015333831501203045, 0.009224440710799779, 0.016716627699074404, 0.015161246221762363, 0.018462090698204217, 0.012803759847817977, 0.017063182468828018, 0.016785966736759292, 0.0056262251564500425, 0.015452857920804187, 0.01614682554156995, 0.018887123942321827, 0.012637140816084866, 0.024076920679983838, 0.011088346364599905, 0.013182198303578236, 0.021033268724480875, 0.021711125047077076, 0.0031513397187154625, 0.011999973333120579, 0.02239844929239674, 0.014338710320434378, 0.00955205475933811, 0.012733596793181885, 0.0230760596908173]
+
+Accuracies: [38.18481848184818, 51.320132013201324, 57.39273927392739, 64.45544554455445, 67.26072607260726, 71.18811881188118, 75.97359735973598, 79.96699669966996, 81.91419141914191, 88.05280528052805, 85.57755775577557, 81.58415841584159, 87.75577557755776, 89.86798679867987, 88.44884488448845, 85.64356435643565, 91.84818481848185, 91.48514851485149, 89.96699669966996, 91.88118811881188, 90.66006600660066, 93.82838283828383, 91.98019801980197, 94.68646864686468, 90.92409240924093, 95.01650165016501, 92.9042904290429, 93.79537953795379, 93.96039603960396, 94.58745874587459, 92.11221122112211, 94.45544554455445, 93.66336633663366, 94.05940594059406, 92.3102310231023, 93.23432343234323, 94.65346534653466, 92.83828382838284, 93.96039603960396, 96.36963696369637, 94.68646864686468, 94.95049504950495, 95.31353135313532, 95.47854785478548, 92.50825082508251, 96.10561056105611, 95.04950495049505, 94.1914191419142, 94.85148514851485, 92.73927392739274, 95.54455445544555, 95.04950495049505, 93.89438943894389, 94.58745874587459, 94.81848184818482, 92.77227722772277, 96.33663366336634, 94.2904290429043, 95.14851485148515, 93.33333333333333, 93.03630363036304, 95.97359735973598, 94.48844884488449, 93.79537953795379, 95.28052805280528, 95.77557755775578, 92.24422442244224, 95.84158415841584, 94.98349834983499, 95.57755775577557, 96.07260726072607, 95.14851485148515, 95.11551155115511, 94.15841584158416, 94.68646864686468, 93.03630363036304, 93.53135313531354, 94.12541254125412, 93.33333333333333, 95.31353135313532, 96.07260726072607, 95.77557755775578, 92.40924092409242, 96.10561056105611, 95.7095709570957, 93.3003300330033, 93.76237623762377, 95.9075907590759, 95.11551155115511, 95.18151815181518, 96.17161716171617, 93.99339933993399, 95.9075907590759, 92.87128712871286, 93.72937293729373, 94.1914191419142, 95.87458745874588, 94.12541254125412, 93.89438943894389, 96.5016501650165, 95.84158415841584, 93.33333333333333, 96.03960396039604, 93.89438943894389, 95.31353135313532, 96.83168316831683, 94.62046204620462, 96.66666666666667, 95.11551155115511, 93.3003300330033, 95.44554455445545, 94.98349834983499, 94.1914191419142, 95.18151815181518, 96.17161716171617, 94.91749174917491, 95.41254125412541, 93.86138613861387, 96.23762376237623, 92.54125412541254, 95.61056105610561, 93.96039603960396, 95.9075907590759, 94.48844884488449, 95.31353135313532, 95.84158415841584, 96.00660066006601, 96.13861386138613, 93.72937293729373, 95.41254125412541, 93.1023102310231, 94.81848184818482, 96.43564356435644, 89.5049504950495, 94.52145214521452, 95.41254125412541, 95.74257425742574, 96.00660066006601, 95.64356435643565, 94.78547854785478, 94.88448844884489, 95.61056105610561, 94.42244224422443, 96.10561056105611, 93.72937293729373, 95.74257425742574, 95.47854785478548, 95.97359735973598, 95.64356435643565, 96.00660066006601, 94.78547854785478, 94.38943894389439, 95.84158415841584, 95.14851485148515, 95.44554455445545, 94.75247524752476, 95.61056105610561, 92.3102310231023, 95.24752475247524, 95.24752475247524, 95.28052805280528, 95.74257425742574, 95.04950495049505, 94.35643564356435, 94.68646864686468, 96.13861386138613, 95.21452145214522, 95.61056105610561, 95.54455445544555, 92.97029702970298, 95.8085808580858, 95.08250825082509, 95.74257425742574, 95.7095709570957, 95.01650165016501, 93.79537953795379, 95.41254125412541, 95.37953795379538, 96.10561056105611, 94.68646864686468, 91.61716171617162, 96.13861386138613, 95.61056105610561, 94.22442244224422, 95.18151815181518, 95.21452145214522, 95.54455445544555, 93.6963696369637, 95.77557755775578, 96.07260726072607, 94.15841584158416, 94.25742574257426, 96.17161716171617, 96.3036303630363, 94.95049504950495, 94.88448844884489, 93.1023102310231, 95.01650165016501, 95.54455445544555, 94.62046204620462, 94.98349834983499, 93.76237623762377, 92.54125412541254, 94.85148514851485, 95.37953795379538, 95.01650165016501, 96.10561056105611, 96.46864686468646, 94.98349834983499, 94.95049504950495, 94.98349834983499, 95.37953795379538, 94.38943894389439, 95.9075907590759, 95.67656765676567, 94.95049504950495, 94.25742574257426, 94.88448844884489, 94.1914191419142, 95.47854785478548, 95.28052805280528, 95.28052805280528, 94.98349834983499, 95.61056105610561, 94.81848184818482, 96.3036303630363, 95.67656765676567, 95.34653465346534, 95.37953795379538, 94.68646864686468, 93.86138613861387, 96.20462046204621, 95.67656765676567, 96.07260726072607, 95.97359735973598, 93.3993399339934, 93.13531353135313, 94.88448844884489, 96.00660066006601, 95.14851485148515, 94.65346534653466, 95.7095709570957, 94.2904290429043, 95.31353135313532, 94.88448844884489, 95.11551155115511, 91.51815181518151, 94.85148514851485, 95.18151815181518, 95.14851485148515, 95.87458745874588, 95.44554455445545, 94.85148514851485, 95.01650165016501, 92.64026402640265, 94.98349834983499, 96.00660066006601, 94.75247524752476, 92.34323432343234, 95.21452145214522, 95.24752475247524, 95.97359735973598, 96.00660066006601, 93.3993399339934, 96.3036303630363, 96.27062706270627, 94.65346534653466, 96.13861386138613, 95.14851485148515, 94.35643564356435, 93.82838283828383, 94.12541254125412, 93.3993399339934, 95.61056105610561, 95.57755775577557, 92.77227722772277, 95.37953795379538, 94.48844884488449, 93.56435643564356, 95.47854785478548, 95.61056105610561, 94.22442244224422, 95.21452145214522, 95.14851485148515, 94.05940594059406, 94.88448844884489, 93.20132013201321, 95.11551155115511, 95.47854785478548, 95.84158415841584, 90.95709570957095, 93.99339933993399, 95.18151815181518, 96.23762376237623, 92.54125412541254, 95.87458745874588, 95.51155115511551, 94.02640264026402, 95.87458745874588, 95.97359735973598]
+
+Validation Loss: [2.3008420106611753, 1.707664912625363, 1.3589199579075764, 1.1263114468047493, 1.0068183811087357, 0.8401204176639255, 0.6856158872968272, 0.5884003979349999, 0.5355082151921172, 0.35973057900800515, 0.4393210578777239, 0.6842611123464609, 0.40251235142350195, 0.3155585402439005, 0.386070847612389, 0.4610396034721481, 0.26789231014217396, 0.27705954128484195, 0.3829071966673885, 0.25045494820591746, 0.30056453327109156, 0.2102889320800865, 0.26880303790791293, 0.17860918193320302, 0.3038832409576954, 0.18038125693657142, 0.2708888177398445, 0.1942693244910946, 0.199685769048933, 0.1956461063506523, 0.2868767931591719, 0.19886478732192986, 0.22018378128873575, 0.2173576644241142, 0.2930025719596367, 0.24529930912612335, 0.19179147104702057, 0.25784224945390105, 0.20848826703149825, 0.13486256825333265, 0.2099169482827787, 0.20590161359133688, 0.1474950102966671, 0.1592848734341954, 0.2768715619403673, 0.14565415634056797, 0.1854543644340562, 0.2117823049348341, 0.20633912068764115, 0.2737043991625078, 0.16346861449266342, 0.1865858844513576, 0.2302190287547235, 0.1969789845556845, 0.20391881299197656, 0.2832272498623321, 0.13188424960956724, 0.224092725905939, 0.18531002132038243, 0.2762397025957685, 0.31105043261720167, 0.17870461023979403, 0.2034033983210592, 0.21708005771169586, 0.19612859495720936, 0.17591184747641245, 0.287513830406916, 0.15872805866518702, 0.1818422116175306, 0.18486960717342107, 0.17402611934653817, 0.20028556655697205, 0.1900334242896765, 0.25214981522378943, 0.22301321158776868, 0.2540796949532753, 0.3020860146824768, 0.23743577178030184, 0.2900942014273728, 0.1968809704051206, 0.17687733008121875, 0.17549503843612527, 0.34002527196821336, 0.1653660791375411, 0.18428887258954713, 0.3087205913046522, 0.23578530302528586, 0.16293924296865284, 0.1829788119190581, 0.20199605220496827, 0.16685900693861952, 0.2541364491204915, 0.17596390980788304, 0.29169446918010516, 0.2920139288566899, 0.23065633514497197, 0.1951200727962331, 0.2225250905292533, 0.25539049074286596, 0.1518081217913373, 0.17287166204794055, 0.2883408273392553, 0.18306493151314115, 0.30169685342637087, 0.189206020800262, 0.14690401636823816, 0.20383743522547057, 0.15515173442926378, 0.20432727113222524, 0.3121580201032645, 0.18695290145176266, 0.2218120621735388, 0.26018874886251164, 0.21672360460112797, 0.15812552464072052, 0.25367528992710386, 0.18457400267852792, 0.24845695076142682, 0.18222188204776774, 0.28140387407556294, 0.17296218791406748, 0.2654313830092035, 0.18498235956153383, 0.2982142000377184, 0.18978982661225785, 0.1930036333084756, 0.16868775352105858, 0.18614896483432905, 0.2464119447677053, 0.17244860254301642, 0.3308057643529824, 0.21528489171423165, 0.1645928603235485, 0.4638262512536082, 0.2730819442464149, 0.2219629202405677, 0.19215404483415785, 0.1766390352478945, 0.16040804609104892, 0.24025564514725517, 0.21520372809297297, 0.1880069637999297, 0.24403157501590997, 0.14364251846743986, 0.2754802850945117, 0.17583397059352138, 0.17108910355416715, 0.16982855472444117, 0.20124396442969028, 0.1995209693157353, 0.23932317690586818, 0.24430212878306568, 0.19067438305478152, 0.23934535001004692, 0.213986924297933, 0.2289091053970256, 0.2027541286616868, 0.3123014059715651, 0.2105659438400069, 0.20023487223309194, 0.2061495060983457, 0.1752589212396599, 0.2113159500430093, 0.23119631062911236, 0.21525506236909056, 0.19527930290419854, 0.18972271233567306, 0.19893956690119874, 0.1804994458982133, 0.30626294420140576, 0.19678332986919772, 0.22934464160965656, 0.19957358660701988, 0.2096514472236729, 0.20744902039020274, 0.26654377132409107, 0.1959658257924945, 0.19692941366931432, 0.17154639816096612, 0.23082299600646367, 0.35516807040712595, 0.17050031960721082, 0.2020153529268818, 0.23920245839004853, 0.19666663211139232, 0.20300349805684642, 0.19317131523513173, 0.2686147789396895, 0.17414875672823799, 0.18432170893111585, 0.2656113747752419, 0.21552448378459207, 0.16846526261261285, 0.15801952070680367, 0.2362798319568882, 0.2557811777830418, 0.2782856209804059, 0.2382682643845328, 0.16830048830767114, 0.2076893612645156, 0.19509523285638639, 0.25022615728068537, 0.3068834568962063, 0.20051366379545804, 0.20703951272206675, 0.19227784534603798, 0.1619854832443372, 0.14781553024512456, 0.20635602866034453, 0.22676333117045655, 0.1907855623280308, 0.19826138260556803, 0.23134803762261166, 0.1579593912298534, 0.17971813889667637, 0.2157875215358983, 0.24015267502568588, 0.20299146092201178, 0.24123095283437962, 0.18906857861783416, 0.21920920314120226, 0.2028201376141576, 0.2133316070238882, 0.17938269348294278, 0.2147174607438501, 0.15431721403901497, 0.16806034628505012, 0.17094263104694332, 0.19994648843816035, 0.22498458315059044, 0.28258197160076204, 0.16138139114160654, 0.18871692610020163, 0.16577813607934666, 0.1802692413122139, 0.2737781038364215, 0.2951671173149838, 0.24583353849677797, 0.19056068627212785, 0.2102222421004339, 0.24154249200356917, 0.20258157969127702, 0.25928791745651614, 0.22195669206933083, 0.2239339111566407, 0.18401459942726528, 0.37479132294009965, 0.22838212265701976, 0.20408309788211848, 0.22189055932609145, 0.1845053743374975, 0.20350021938991056, 0.2377220838275542, 0.19657029043469504, 0.33830630207559903, 0.22369788767797505, 0.1971017102059896, 0.24785125994326096, 0.30023619038264243, 0.21849357502988392, 0.21067987943441902, 0.16689938388544281, 0.16772178955664124, 0.28207163027388893, 0.17601302837754607, 0.16225388548275652, 0.22316937678676582, 0.18254425925634246, 0.2013206317075712, 0.24443605194821047, 0.2529095560097822, 0.2547151162406264, 0.2711696505669112, 0.1909805595877084, 0.18888975456939078, 0.3275294232801044, 0.22438868269673548, 0.2388515212597811, 0.28280859187557567, 0.1935959843195633, 0.20246573627105374, 0.24203862221303624, 0.207955559796813, 0.22249985135799522, 0.24133755640237053, 0.24679615463641505, 0.3121588661286392, 0.2247249529828734, 0.21038922534640542, 0.1849577587350627, 0.40184032606500153, 0.24482620041465117, 0.21942425922009678, 0.1877196512528922, 0.3372755916900994, 0.1850625289035394, 0.19373913572703474, 0.2810913912149293, 0.19299084020017052, 0.1993533643483859]
